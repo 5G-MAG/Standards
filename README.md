@@ -1,6 +1,6 @@
 # Standards
 
-This repository contains 5G-MAG related specification available to the community for comments, bug-fixing, request for new features, etc. To report a bug or a new feature please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose). Issues will be regularly reviewed by 5G-MAG.
+This repository contains 5G-MAG related specification available to the community for comments, bug-fixing, request for new features, etc. To report a bug or a new feature please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose). Issues will be regularly reviewed by 5G-MAG according to the [issue workflow](https://github.com/5G-MAG/Standards/blob/main/media/Standards%20issue%20workflow.png).
 
 @5G-MAG members: Note that this is a public repository. For IPR-sensitive information please refer to our internal group (https://member.5g-mag.com/wg/TF-RT/workgroup)
 
