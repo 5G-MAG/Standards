@@ -3,7 +3,7 @@ name: Standards - New Feature
 about: Suggest an idea for this project
 title: ''
 labels: New Feature
-assignees: ''
+assignees: jordijoangimenez
 
 ---
 

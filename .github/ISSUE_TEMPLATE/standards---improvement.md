@@ -3,7 +3,7 @@ name: Standards - Improvement
 about: Create a report to help us improve a standard
 title: ''
 labels: Improvement
-assignees: ''
+assignees: jordijoangimenez
 
 ---
 
