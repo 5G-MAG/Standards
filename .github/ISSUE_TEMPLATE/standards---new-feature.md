@@ -7,16 +7,16 @@ assignees: jordijoangimenez
 
 ---
 
-** Step 1: Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+# Problem description
+_Step 1: Is your feature request related to a problem? Replace this line with a clear and concise description, e.g. "I'm always frustrated when..."._
 
-** Step 2: Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+# Suggested solution description
+_Step 2: Replace this line with a clear and concise specification of the new feature._
 
-** Step 3: Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+# Alternative solutions
+_Step 3: Replace this line with a description of any alternatives you have considered._
 
-** Step 4: Additional context**
-Add any other context or screenshots about the feature request here.
+# Additional context
+_Step 4: Replace this line with any other relevant context._
 
-** Step 5: Choose related standard/project (right side)
+_Step 5: Choose related standard/project (right-hand side)._
