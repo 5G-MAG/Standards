@@ -7,13 +7,13 @@ assignees: jordijoangimenez
 
 ---
 
-** Step 1: Describe the bug**
-A clear and concise description of what the bug is.
+# Description
+_Step 1: Replace this line with a clear and concise description._
 
-** Step 2: Suggested solution **
-A clear and concise suggestion how to resolve the bug.
+# Suggested solution
+_Step 2: Replace this line with a clear and concise suggestion of how to make the improvement._
 
-** Step 3: Additional context**
-Add any other context about the problem here.
+# Additional context**
+_Step 3: Replace this line with any other relevant context._
 
-** Step 4: Choose related standard/project (right side)
+_Step 4: Choose related standard/project (right-hand side)._
