@@ -1,13 +1,9 @@
 # Standards
 
-This repository contains 5G-MAG related specification available to the community for comments, bug-fixing, request for new features, etc. To report a bug or a new feature please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose). Issues will be regularly reviewed by 5G-MAG according to the [issue workflow](https://github.com/5G-MAG/Standards/blob/main/media/Standards%20issue%20workflow.png).
+This repository contains specifications in the scope of 5G-MAG's areas of work. For detailed information please refer to the relevant Workgroups. These repositories are available to the community for comments, bug-fixing, request for new features, etc. To report a bug or a new feature please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the [issue workflow](https://github.com/5G-MAG/Standards/blob/main/media/Standards%20issue%20workflow.png).
 
-@5G-MAG members: Note that this is a public repository. For IPR-sensitive information please refer to our internal group (https://member.5g-mag.com/wg/TF-RT/workgroup)
+@5G-MAG members: Note that this is a public repository. For IPR-sensitive information please refer to our internal Workgroups.
 
-## Target ETSI TS 103 720 v1.2.1
-5G-MAG is currently collecting issues to further improve the existing ETSI standard TS 103 720.  The status of the issues can be viewed in the project board ["Target ETSI TS 103 720 v1.2.1"](https://github.com/5G-MAG/Standards/projects/1).
-
-
-## Available Specifications
-
-* ETSI TS 103 720 [5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system](https://github.com/5G-MAG/Standards/blob/main/ETSI-TS%20103%20720.docx)
+## Specifications under review
+- ETSI TS 103 720 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2Fstandards%2F1) - [Project Board](https://github.com/5G-MAG/Standards/projects/1)
+- 3GPP Specifications - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aissue+project%3A5g-mag%2Fstandards%2F2+is%3Aopen) - [Project Board](https://github.com/5G-MAG/Standards/projects/2)
