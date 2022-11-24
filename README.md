@@ -1,6 +1,6 @@
 # Standards
 
-This repository contains specifications in the scope of 5G-MAG's Work Items. These repositories are available to the community for comments, bug-fixing, request for new features, etc. For more information, check www.5g-mag.com/standards
+This repository contains specifications in the scope of 5G-MAG's Work Items. These repositories are available to the community for comments, bug-fixing, request for new features, etc. For more information, check www.5g-mag.com/standards.
 
 To report a bug or a new feature please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the [issue workflow](https://github.com/5G-MAG/Standards/blob/main/media/Standards%20issue%20workflow.png).
 
