@@ -9,6 +9,7 @@ To report a bug or a new feature please create a [new issue](https://github.com/
 ![alt text](https://github.com/5G-MAG/Standards/blob/main/media/Standards%20issue%20workflow.png)
 
 ## SA4 XCHANGES
+- Information on the sessions: https://www.5g-mag.com/post/12-01-23-5g-mag-xchange-with-3gpp-sa4
 - Agenda and Notes: https://github.com/5G-MAG/Standards/blob/main/SA4XCHANGE.md
 
 ## Specifications under review
