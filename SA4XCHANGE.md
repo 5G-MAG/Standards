@@ -8,7 +8,7 @@
 * Bring specs to live with demos and trials (https://www.5g-mag.com/tutorials)
 * Provide specification feedback to 3GPP (https://www.5g-mag.com/standards - https://github.com/5G-MAG/Standards/projects/2)
 
-### What we have achieved so far:
+### What we have achieved so far - most recent contributions:
 * The full picture: https://www.5g-mag.com/repositories
 * 5G-MAG Reference Tools activity has implemented a Minimum Viable Product for 5G Media Streaming based on downlink Content Hosting and has recently expanded this to include provisioning at reference point M1d and configuration at M3d.
 * 5G-MAG now has basic Rel-17 reference implementations the 5GMSd AF and 5GMSd AS that support the key features of Content Hosting for downlink media streaming.
