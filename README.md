@@ -5,7 +5,10 @@ This [wiki](https://github.com/5G-MAG/Standards/wiki) contains specifications in
 For more information, check www.5g-mag.com/standards.
 
 ## Feedback on Technical Specifications
-These projects are made available to the community for comments, bug-fixing, request for new features, etc. 
+5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
+More information can be found at https://www.5g-mag.com/feedback.
+
+### Provide feedback to:
 - 3GPP Specifications - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aissue+project%3A5g-mag%2Fstandards%2F2+is%3Aopen) - [Project Board](https://github.com/5G-MAG/Standards/projects/2)
 - ETSI Specifications - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2Fstandards%2F1) - [Project Board](https://github.com/5G-MAG/Standards/projects/1)
 
