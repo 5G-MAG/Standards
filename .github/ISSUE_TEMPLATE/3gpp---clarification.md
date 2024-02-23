@@ -4,7 +4,7 @@ about: Create a report to help us clarify a standard
 title: ''
 labels: Clarification
 assignees: jordijoangimenez
-projects: 5G-MAG/Standards/3GPP specification feedback
+projects: 5G-MAG/Standards/Specifications - 3GPP - Feedback
 ---
 
 # Context
