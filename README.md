@@ -10,11 +10,11 @@ More information can be found at https://www.5g-mag.com/feedback.
 
 ### Provide feedback to:
 - Technical Specifications maintained by external SDOs
-  - 3GPP [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33) - [Project Board](https://github.com/5G-MAG/Standards/projects/33)
+  - 3GPP [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33) - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
 
 - Technical Specifications maintained by 5G-MAG
-  - ETSI TS 103 720 [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32) - [Project Board](https://github.com/5G-MAG/Standards/projects/32)
-  - ETSI TS 103 972 (JTF DVB/5G-MAG) [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31) - [Project Board](https://github.com/5G-MAG/Standards/projects/31)
+  - ETSI TS 103 720 [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32) - [Project Board](https://github.com/orgs/5G-MAG/Standards/projects/32)
+  - ETSI TS 103 972 (JTF DVB/5G-MAG) [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31) - [Project Board](https://github.com/orgs/5G-MAG/Standards/projects/31)
 
 ### If you have a doubt related to a specification (a doubt, a question, something you do not understand)
 - Use this [Project Board](https://github.com/orgs/5G-MAG/projects/34) and raise [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F34)
