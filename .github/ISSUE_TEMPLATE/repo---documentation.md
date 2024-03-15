@@ -2,7 +2,7 @@
 name: Repo Documentation/Wiki
 about: Create a report to raise an issue related to the documentation in the Wikis
 title: ''
-labels: Doubt
+labels: Documentation/Wiki
 assignees: jordijoangimenez
 projects: 5G-MAG/Standards/Documentation
 ---
