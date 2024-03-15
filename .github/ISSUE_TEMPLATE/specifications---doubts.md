@@ -1,16 +1,15 @@
 ---
-name: Specifications - Doubts
-about: Create a report to raise a doubt
+name: Repo documentation
+about: Create a report to raise an issue related to the documentation in the Wikis
 title: ''
 labels: Doubt
 assignees: jordijoangimenez
-projects: 5G-MAG/Standards/Specifications - Doubts
+projects: 5G-MAG/Standards/Documentation
 ---
 
-# Context
-_Step 1: Replace this line with a brief explanation of the background, including a specification reference and clause number._
+# Comment
+_Step 1: Raise an error, propose a change, include new material for the Wikis in this repo._
 
-# Description of the doubt
-_Step 2: Express here your doubt._
+_Step 2: Propose a solution if you wish._
 
-_Step 3: Choose related standard/project (right-hand side)._
+_Step 3: Attach the label "documentation" to this issue._
