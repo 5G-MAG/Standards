@@ -28,7 +28,7 @@ To report a bug, request a new feature or express a doubt, please create a [new 
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
 
-### 3GPP SA4 XCHANGE
+#### 3GPP SA4 XCHANGE
 5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
 - Information on the sessions: [https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4](https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4)
 - Agenda and Notes: [https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes](https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes)
