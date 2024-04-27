@@ -24,10 +24,12 @@ This website serves as an umbrella for documentation related to standards and sp
 ## Feedback on Technical Specifications maintained by external SDOs
 5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
-To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 ### 3GPP (Third Generation Partnership Project) Specifications
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
+
+> [!TIP] 
+> To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 #### 3GPP SA4 XCHANGE
 5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
@@ -39,13 +41,18 @@ To report a bug, request a new feature or express a doubt, please create a [new 
 ## Feedback on Technical Specifications maintained by 5G-MAG
 5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
-To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 ### ETSI TS 103 720 "5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system"
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/32)
 
+> [!TIP] 
+> To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
+
 ### ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems" (resulting from a Joint TastForce between DVB and 5G-MAG)
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/31)
+
+> [!IMPORTANT] 
+> To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 ![](https://static.wixstatic.com/media/7898a9_42bece6a420549b9ab9a250817a73367~mv2.png/v1/fill/w_955,h_374,al_c,lg_1,q_85,enc_auto/Loop2.png)
