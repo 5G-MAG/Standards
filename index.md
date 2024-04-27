@@ -10,6 +10,7 @@ has_children: false
 # Standards, Specifications and Feedback
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work. For more information, check [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
+## Specification Profiles and Guidelines
 ### 5G Media Streaming
 * [Specifications related to 5G Downlink Media Streaming (5GMSd)](https://github.com/5G-MAG/Standards/wiki/5G-Downlink-Media-Streaming-Architecture-(5GMSd):-Relevant-Specifications)
 ### LTE-based 5G Broadcast
