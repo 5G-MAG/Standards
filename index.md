@@ -7,10 +7,10 @@ has_children: true
 
 <img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:50px">
 
-# Standards
+# Standards and Specifications
 
 ## Relevant specifications and profiling
-This [wiki](https://github.com/5G-MAG/Standards/wiki) contains specifications in the scope of 5G-MAG's Areas of Work.
+This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work.
 For more information, check www.5g-mag.com/standards.
 
 ## Feedback on Technical Specifications
