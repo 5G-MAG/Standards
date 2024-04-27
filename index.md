@@ -12,14 +12,14 @@ This website serves as an umbrella for documentation related to standards and sp
 
 ## Specification Profiles and Guidelines
 ### 5G Media Streaming
-* [Specifications related to 5G Downlink Media Streaming (5GMSd)](https://github.com/5G-MAG/Standards/wiki/5G-Downlink-Media-Streaming-Architecture-(5GMSd):-Relevant-Specifications)
+* [Specifications related to 5G Downlink Media Streaming (5GMSd)](pages/5g-media-streaming.md)
 ### LTE-based 5G Broadcast
-* [Specifications related to LTE-based 5G Broadcast (MBMS)](https://github.com/5G-MAG/Standards/wiki/MBMS-&-LTE-based-5G-Broadcast:-Relevant-Specifications)
+* [Specifications related to LTE-based 5G Broadcast (MBMS)]()
 ### 5G Multicast Broadcast Services (MBS)
-* [Specifications related to 5G Multicast-Broadcast Services (MBS)](https://github.com/5G-MAG/Standards/wiki/5G-Multicast-Broadcast-Services-(5MBS):-Relevant-Specifications)
-* [MBS Broadcast: RAN](https://github.com/5G-MAG/Standards/wiki/5G-Multicast-Broadcast-Services-(5MBS):-RAN-Procedures-for-MBS-Broadcast)
+* [Specifications related to 5G Multicast-Broadcast Services (MBS)]()
+* [MBS Broadcast: RAN]()
 ### XR (eXtended Reality)
-* [Specifications related to XR](https://github.com/5G-MAG/Standards/wiki/XR-(eXtended-Reality):-Relevant-Specifications)
+* [Specifications related to XR]()
 
 ## Feedback on Technical Specifications maintained by external SDOs
 5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
