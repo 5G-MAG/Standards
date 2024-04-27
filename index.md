@@ -11,12 +11,16 @@ has_children: false
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work. For more information, check [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
 ## Specification Profiles and Guidelines
+
 ### 5G Media Streaming
 * [Specifications and related information](pages/5g-media-streaming.html)
+
 ### MBMS and LTE-based 5G Broadcast
 * [Specifications and related information](pages/lte-based-5g-broadcast.html)
+
 ### 5G Multicast Broadcast Services (MBS)
 * [Specifications and related information](pages/5g-multicast-broadcast-services.html)
+
 ### XR (eXtended Reality)
 * [Specifications and related information](pages/xr.html)
 
