@@ -7,33 +7,33 @@ has_children: true
 
 <img src="{{site.baseurl}}/assets/images/5g-mag-reference-tools.png" alt="5g-mag" style="width:300px">
 
-# Overview
+# Standards
 
-This website serves as an umbrella for documentation, practical guidelines and examples of applications that can be
-built with the software packages available as 5G-MAG Reference Tools and also in combination with other platforms.
+## Relevant specifications and profiling
+This [wiki](https://github.com/5G-MAG/Standards/wiki) contains specifications in the scope of 5G-MAG's Areas of Work.
+For more information, check www.5g-mag.com/standards.
 
-A summary about what we do can be found below.
+## Feedback on Technical Specifications
+5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
+More information can be found at https://www.5g-mag.com/feedback.
 
-<iframe width="100%" height="440" src="https://drive.google.com/file/d/1tPcMWLeY6QJNH5OfGWDwLmoSyjrqk8gA/preview"></iframe>
+### Provide feedback to:
+- Technical Specifications maintained by external SDOs
+  - 3GPP [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33) - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
 
-## Join our Public Monthly Call (Last Friday of the month at 13:00 CET/CEST)
-Find all the information how to join here: https://5g-mag.com/community#calendar
-Agendas circulated via the [Google Group](https://groups.google.com/g/5g-mag-reference-tools) mailing list
+- Technical Specifications maintained by 5G-MAG
+  - ETSI TS 103 720 [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32) - [Project Board](https://github.com/orgs/5G-MAG/projects/32)
+  - ETSI TS 103 972 (JTF DVB/5G-MAG) [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31) - [Project Board](https://github.com/orgs/5G-MAG/projects/31)
 
+To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
-## Practical information
-The repositories related to the **5G-MAG REFERENCE TOOLS** are usually starting with **rt-**. Some repositories are also allocating dependencies and auxiliary tools. In the case of third party branches, you will find such repositories with its original name from source.
+### Feedback on Technical Specifications maintained by external SDOs
+![](https://static.wixstatic.com/media/7898a9_30ba00fb9e99459d89bff92cc40d0f5c~mv2.png/v1/fill/w_942,h_451,al_c,q_90,enc_auto/Loop1.png)
 
-For additional details about the 5G-MAG Reference Tools development programme please visit the following links:
+### Feedback on Technical Specifications maintained by 5G-MAG
+![](https://static.wixstatic.com/media/7898a9_42bece6a420549b9ab9a250817a73367~mv2.png/v1/fill/w_955,h_374,al_c,lg_1,q_85,enc_auto/Loop2.png)
 
-* Developer Space ([developer.5g-mag.com](https://developer.5g-mag.com/)).
-* Meet the developer community, participate, contribute, join the public calls: [https://www.5g-mag.com/community](https://www.5g-mag.com/community)
-* Learn about the License Model for contributors: [https://www.5g-mag.com/license](https://www.5g-mag.com/license)
-* Download installation packages: [https://www.5g-mag.com/install](https://www.5g-mag.com/install)
-* Request early access for private repositories: [https://www.5g-mag.com/early-access](https://www.5g-mag.com/early-access)
-* Get additional resources for members: [https://www.5g-mag.com/extras](https://www.5g-mag.com/extras)
-
-## Join the open communities
-* Join [Slack](https://5g-mag.slack.com/) for discussion
-* Join the [Google Group](https://groups.google.com/g/5g-mag-reference-tools) mailing list
-* If you have questions that cannot be shared publicly, reach out to us via email: [reference-tools@5g-mag.com](mailto:reference-tools@5g-mag.com)
+## 3GPP SA4 XCHANGE
+5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
+- Information on the sessions: https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4
+- Agenda and Notes: https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes
