@@ -11,7 +11,7 @@ has_children: false
 
 ## Relevant specifications and profiling
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work.
-For more information, check www.5g-mag.com/standards.
+For more information, check https://www.5g-mag.com/standards.
 
 ## Feedback on Technical Specifications
 5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
