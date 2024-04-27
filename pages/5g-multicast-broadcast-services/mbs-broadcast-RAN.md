@@ -3,7 +3,7 @@ layout: default
 title: MBS Broadcast - RAN Procedures
 parent: 5G Multicast Broadcast Services
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Summary of the RAN procedures to acquire MCCH and MTCH:
