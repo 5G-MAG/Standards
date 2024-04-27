@@ -4,6 +4,9 @@ title: Home
 nav_order: 0
 has_children: true
 ---
+
+<img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:280px">
+
 # Standards
 
 ## Relevant specifications and profiling
