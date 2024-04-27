@@ -11,11 +11,11 @@ has_children: false
 
 ## Relevant specifications and profiling
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work.
-For more information, check https://www.5g-mag.com/standards.
+For more information, check [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
 ## Feedback on Technical Specifications
 5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
-More information can be found at https://www.5g-mag.com/feedback.
+More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
 ### Provide feedback to:
 - Technical Specifications maintained by external SDOs
@@ -35,5 +35,6 @@ To report a bug, request a new feature or express a doubt, please create a [new 
 
 ## 3GPP SA4 XCHANGE
 5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
-- Information on the sessions: https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4
-- Agenda and Notes: https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes
+- Information on the sessions: [https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4](https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4)
+- Agenda and Notes: [https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes](https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes)
+  
