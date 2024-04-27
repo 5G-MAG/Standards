@@ -28,7 +28,7 @@ This website serves as an umbrella for documentation related to standards and sp
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
 
-> [!TIP] 
+> [!NOTE] 
 > To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 #### 3GPP SA4 XCHANGE
@@ -45,14 +45,14 @@ This website serves as an umbrella for documentation related to standards and sp
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/32)
 
-> [!TIP] 
+> [!NOTE] 
 > To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 ### ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems" (resulting from a Joint TastForce between DVB and 5G-MAG)
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/31)
 
-> [!IMPORTANT] 
+> [!NOTE] 
 > To report a bug, request a new feature or express a doubt, please create a [new issue](https://github.com/5G-MAG/Standards/issues/new/choose) with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 ![](https://static.wixstatic.com/media/7898a9_42bece6a420549b9ab9a250817a73367~mv2.png/v1/fill/w_955,h_374,al_c,lg_1,q_85,enc_auto/Loop2.png)
