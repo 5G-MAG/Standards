@@ -10,7 +10,7 @@ nav_order: 1
 ## Release 18
 Work Item | Acronym | Title | Rel | WG
 -- | -- | -- | -- | --
-{::nomarkdown}940068 | FS_XRM | Study on architecture enhancement for XR and media services | Rel‑18 | S2{:/}
+940068 | FS_XRM | Study on architecture enhancement for XR and media services | Rel‑18 | S2
 940087 | FS_NR_XR_enh | Study on XR (eXtended Reality) enhancements for NR | Rel‑18 | R2
 950012 | FS_eiRTCW | Study on immersive Real-time Communication for WebRTC Phase 2 | Rel‑18 | S4
 950014 | iRTCW | Immersive Real-time Communication for WebRTC | Rel‑18 | S4
