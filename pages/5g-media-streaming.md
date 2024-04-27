@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 5G Downlink Media Streaming
+parent: Home
 has_children: true
 nav_order: 1
 ---
