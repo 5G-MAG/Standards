@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 5G Downlink Media Streaming
+title: 5G Media Streaming
 has_children: true
-nav_order: 1
+nav_order: 0
 ---
 
 # 5G Media Streaming
