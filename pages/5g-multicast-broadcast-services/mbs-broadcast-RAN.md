@@ -1,3 +1,11 @@
+---
+layout: default
+title: MBS Broadcast: RAN Procedures
+parent: 5G Multicast Broadcast Services
+has_children: false
+nav_order: 1
+---
+
 # Summary of the RAN procedures to acquire MCCH and MTCH:
   1. Obtain MIB
   2. Obtain SIB1 (points to SIB20)
