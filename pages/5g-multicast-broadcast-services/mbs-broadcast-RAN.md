@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MBS Broadcast: RAN Procedures
+title: MBS Broadcast - RAN Procedures
 parent: 5G Multicast Broadcast Services
 has_children: false
 nav_order: 1
