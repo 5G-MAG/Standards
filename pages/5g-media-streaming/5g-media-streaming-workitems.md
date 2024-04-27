@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5G Media Streaming - Work Items
+title: Work Items
 parent: 5G Media Streaming
 has_children: false
 nav_order: 1
