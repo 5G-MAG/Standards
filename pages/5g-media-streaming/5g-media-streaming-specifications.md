@@ -8,7 +8,7 @@ nav_order: 0
 
 # 📑 Specifications and relevant references
 
-This is a list of specifications in the scope of 5G Downlink Media Streaming.
+This is a list of specifications in the scope of 5G Media Streaming.
 
 ## Main specifications
 * [ETSI TS 126 501](https://portal.etsi.org/webapp/workprogram/Report_WorkItem.asp?WKI_ID=67203) - 5G Media Streaming (
