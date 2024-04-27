@@ -40,26 +40,22 @@ color_scheme: custom
 
 # configures the default callouts described in: https://just-the-docs.github.io/just-the-docs/docs/ui-components/callouts/
 callouts_level: quiet # or loud
+callouts_opacity: 0.1
 callouts:
   highlight:
     color: yellow
-    opacity: 0.3
   important:
     title: Important
     color: blue
-    opacity: 0.3
   new:
     title: New
     color: green
-    opacity: 0.3
   note:
     title: Note
     color: purple
-    opacity: 0.3
   warning:
     title: Warning
     color: red
-    opacity: 0.3
 
 # Footer content
 # appears at the bottom of every page's main content
