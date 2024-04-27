@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 5G-MAG Reference Tools - Documentation
+title: 5G-MAG - Standards & Specifications
 email: daniel.silhavy@fokus.fraunhofer.de
 description: >- # this means to ignore newlines until "baseurl:"
-  5G-MAG Reference Tools
+  5G-MAG
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dsilhavy
@@ -29,8 +29,8 @@ github_username:  dsilhavy
 logo: "/assets/images/5g-mag-reference-tools.png"
 
 aux_links:
-  "5G-MAG Reference Tools on GitHub":
-    - "//github.com/5G-MAG/Getting-Started"
+  "5G-MAG on GitHub":
+    - "//github.com/5G-MAG/"
   "5G-MAG Website":
     - "https://www.5g-mag.com"
 
