@@ -8,7 +8,10 @@ has_children: false
 <img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:50px">
 
 # Standards, Specifications and Feedback
-This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work. For more information, check [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
+This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work. 
+
+> [!TIP]
+> For more information, check [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
 ## Specification Profiles and Guidelines
 
@@ -25,7 +28,10 @@ This website serves as an umbrella for documentation related to standards and sp
 * [Specifications and related information](pages/xr.html)
 
 ## Feedback on Technical Specifications maintained by external SDOs
-5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
+5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. 
+
+> [!TIP]
+> More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
 ### 3GPP (Third Generation Partnership Project) Specifications
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
@@ -42,7 +48,10 @@ This website serves as an umbrella for documentation related to standards and sp
 ![](https://static.wixstatic.com/media/7898a9_30ba00fb9e99459d89bff92cc40d0f5c~mv2.png/v1/fill/w_942,h_451,al_c,q_90,enc_auto/Loop1.png)
 
 ## Feedback on Technical Specifications maintained by 5G-MAG
-5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
+5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features.
+
+> [!TIP]
+> More information can be found at [https://www.5g-mag.com/feedback](https://www.5g-mag.com/feedback).
 
 ### ETSI TS 103 720 "5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system"
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
