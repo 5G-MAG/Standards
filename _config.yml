@@ -43,18 +43,23 @@ callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
+    opacity: 0.3
   important:
     title: Important
     color: blue
+    opacity: 0.3
   new:
     title: New
     color: green
+    opacity: 0.3
   note:
     title: Note
     color: purple
+    opacity: 0.3
   warning:
     title: Warning
     color: red
+    opacity: 0.3
 
 # Footer content
 # appears at the bottom of every page's main content
