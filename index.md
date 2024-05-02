@@ -36,14 +36,9 @@ More information can be found at [https://www.5g-mag.com/feedback](https://www.5
 ### 3GPP (Third Generation Partnership Project) Specifications
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
-
+5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Agendas and Notes are stored [here](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
 {: .important }
 To report a bug, request a new feature or express a doubt, please create a **[new issue](https://github.com/5G-MAG/Standards/issues/new/choose)** with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
-
-#### 3GPP SA4 XCHANGE
-5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
-- Information on the sessions: [https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4](https://www.5g-mag.com/post/5g-mag-xchange-with-3gpp-sa4)
-- Agenda and Notes: [https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes](https://github.com/5G-MAG/Standards/wiki/3GPP-SA4-XCHANGE---Notes)
 
 ![](https://static.wixstatic.com/media/7898a9_30ba00fb9e99459d89bff92cc40d0f5c~mv2.png/v1/fill/w_942,h_451,al_c,q_90,enc_auto/Loop1.png)
 
