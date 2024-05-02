@@ -40,7 +40,7 @@ color_scheme: custom
 
 # configures the default callouts described in: https://just-the-docs.github.io/just-the-docs/docs/ui-components/callouts/
 callouts_level: quiet # or loud
-callouts_opacity: 0.1
+callouts_opacity: 0.3
 callouts:
   highlight:
     color: yellow
