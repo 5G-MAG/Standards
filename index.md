@@ -38,7 +38,8 @@ To report a bug, request a new feature or express a doubt, please create a **[ne
 ### 3GPP (Third Generation Partnership Project) Specifications
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
-5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Agendas and Notes are stored [here](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
+
+5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Check the Agendas and Notes of the [3GPP SA4 XCHANGE](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
 
 ![](https://static.wixstatic.com/media/7898a9_30ba00fb9e99459d89bff92cc40d0f5c~mv2.png/v1/fill/w_942,h_451,al_c,q_90,enc_auto/Loop1.png)
 
