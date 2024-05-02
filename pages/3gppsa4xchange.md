@@ -2,7 +2,7 @@
 layout: default
 title: 3GPP SA4 XCHANGE
 has_children: false
-nav_order: 1
+nav_order: 5
 ---
 ## 3GPP SA4 XCHANGE
 5G-MAG and 3GPP SA4 organize regular joint meetings to discuss issues found on standards under development.
