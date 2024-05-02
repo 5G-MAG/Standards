@@ -37,6 +37,7 @@ More information can be found at [https://www.5g-mag.com/feedback](https://www.5
 - [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
 - [Project Board](https://github.com/orgs/5G-MAG/projects/33)
 5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Agendas and Notes are stored [here](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
+
 {: .important }
 To report a bug, request a new feature or express a doubt, please create a **[new issue](https://github.com/5G-MAG/Standards/issues/new/choose)** with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
