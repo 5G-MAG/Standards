@@ -4,6 +4,7 @@ title: Specifications
 parent: eXtended Reality (XR)
 has_children: false
 nav_order: 0
+datatable: true
 ---
 
 # 📑 Specifications and relevant references
