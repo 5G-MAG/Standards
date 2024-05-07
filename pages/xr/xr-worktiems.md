@@ -8,6 +8,7 @@ nav_order: 1
 
 # 📑 Relevant Work Items
 ## Release 18
+
 Work Item | Acronym | Title | Rel | WG
 -- | -- | -- | -- | --
 940068 | FS_XRM | Study on architecture enhancement for XR and media services | Rel‑18 | S2
@@ -24,12 +25,14 @@ Work Item | Acronym | Title | Rel | WG
 960050 | FS_Audio_5GSTAR | Study on Audio Aspects for Glasses-type AR/MR Devices | Rel‑18 | S4
 
 ## Release 17
+
 Work Item | Acronym | Title | Rel | WG
 -- | -- | -- | -- | --
 870013 | FS_XRTraffic | Traffic Models and Quality Evaluation Methods for Media and XR Services in 5G Systems | Rel‑17 | S4
 860062 | FS_NR_XR_eval | Study on XR (Extended Reality) evaluations for NR | Rel‑17 | R1
 
 ## Release 16
+
 Work Item | Acronym | Title | Rel | WG
 -- | -- | -- | -- | --
 810006 | FS_5GXR | Study on eXtended Reality (XR) in 5G | Rel‑16 | S4
