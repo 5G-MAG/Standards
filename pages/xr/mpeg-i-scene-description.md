@@ -2,7 +2,7 @@
 layout: default
 title: Specifications
 grand_parent: eXtended Reality (XR)
-parent: eXtended Reality (XR)
+parent: Specifications
 has_children: false
 nav_order: 0
 ---
