@@ -6,7 +6,7 @@ has_children: false
 nav_order: 0
 ---
 
-# 📑 3GPP Specifications and relevant references
+# 3GPP Specifications
 
 This is a list of specifications in the scope of MBMS / LTE-based 5G Terrestrial Broadcast.
 
