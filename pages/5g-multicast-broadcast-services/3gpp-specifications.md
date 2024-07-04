@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Specifications
+title: 3GPP Specifications
 parent: 5G Multicast Broadcast Services
 has_children: false
 nav_order: 0
 ---
 
-# 📑 Specifications and relevant references
+# Related 3GPP Specifications
 
 This is a list of specifications in the scope of 5G Multicast Broadcast Services.
 

@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Work Items
-parent: eXtended Reality (XR)
+title: 3GPP Work Items
+grand_parent: eXtended Reality (XR)
+parent: 3GPP Specifications
 has_children: false
-nav_order: 1
+nav_order: 0
 ---
 
-# 📑 Relevant Work Items
+# Related 3GPP Work Items
+
 ## Release 18
 
 Work Item | Acronym | Title | Rel | WG

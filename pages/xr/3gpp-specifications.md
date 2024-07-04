@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Specifications
+title: 3GPP Specifications
 parent: eXtended Reality (XR)
 has_children: false
 nav_order: 0
 ---
 
-# 📑 Specifications and relevant references
+# Related 3GPP Specifications
 
 This is a list of specifications in the scope of eXtended Reality (XR).
 
@@ -71,3 +71,4 @@ This is a list of specifications in the scope of eXtended Reality (XR).
 [26.926](https://www.3gpp.org/dynareport/26926.htm) | TR | Traffic Models and Quality Evaluation Methods for Media and XR Services in 5G Systems | Under change control | S4
 [26.996](https://www.3gpp.org/dynareport/26996.htm) | TR | Immersive Audio for Split Rendering Scenarios; Performance characterization | Draft | S4
 [26.997](https://www.3gpp.org/dynareport/26997.htm) | TR | IVAS codec performance characterization | Draft | S4
+
