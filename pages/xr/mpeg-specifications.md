@@ -2,8 +2,8 @@
 layout: default
 title: MPEG Specifications
 parent: eXtended Reality (XR)
-has_children: false
-nav_order: 0
+has_children: true
+nav_order: 1
 ---
 
 # Related MPEG Specifications
