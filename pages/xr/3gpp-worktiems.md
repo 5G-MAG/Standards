@@ -6,7 +6,8 @@ has_children: false
 nav_order: 1
 ---
 
-# 📑 Relevant Work Items
+# Related 3GPP Work Items
+
 ## Release 18
 
 Work Item | Acronym | Title | Rel | WG
