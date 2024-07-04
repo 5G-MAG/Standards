@@ -6,7 +6,9 @@ has_children: false
 nav_order: 2
 ---
 
-# Overview on MPEG-I Scene Description
+# Related MPEG Specifications
+
+## Overview on MPEG-I Scene Description
 MPEG-I Scene Description (MPEG-I SD) is a standard developed by MPEG for immersive media.
 It defines the structure and composition of a 3D scene, referencing and positioning 2D and 3D assets in the scene, and provides information for rendering the scene properly.
 
@@ -16,7 +18,7 @@ Developed by the Khronos Group, glTF is an open standard that integrates media a
 MPEG-I Scene Description (ISO/IEC 23090-14) specifies how to reference and position 2D and 3D assets within a scene, enabling proper rendering and creating rich 3D scenes with real-time media delivery and interactivity.
 Khronos has adopted the MPEG-I Scene Description extensions as defined in [https://github.com/KhronosGroup/glTF/blob/main/extensions/README.md](https://github.com/KhronosGroup/glTF/blob/main/extensions/README.md).
 
-## Reference architecture:
+### Reference architecture:
 MPEG-I SD defined the following reference architecture.
 ![image](./images/mpeg-i-sd-0.png)
 
@@ -25,7 +27,7 @@ MPEG-I SD defined the following reference architecture.
 * The MAF API is used by the Presentation Engine to request immersive media in the scene.
 * The Buffers are fed by the processed media with a format defined through the scene description document in SO/IEC 23090-14
 
-## Vendor extensions to Khronos glTF 2.0
+### Vendor extensions to Khronos glTF 2.0
 ![image](./images/mpeg-i-sd-1.png)
 
 A first set of extensions (green in the figure) enable the timed framework including:
