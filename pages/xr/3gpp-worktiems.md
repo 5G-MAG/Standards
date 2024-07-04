@@ -1,9 +1,10 @@
 ---
 layout: default
 title: 3GPP Work Items
-parent: eXtended Reality (XR)
+grand_parent: eXtended Reality (XR)
+parent: 3GPP Specifications
 has_children: false
-nav_order: 1
+nav_order: 0
 ---
 
 # Related 3GPP Work Items
