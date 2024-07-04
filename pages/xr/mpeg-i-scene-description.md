@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work Items
+title: MPEG Specifications
 parent: eXtended Reality (XR)
 has_children: false
 nav_order: 2
