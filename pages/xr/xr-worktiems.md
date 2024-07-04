@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Work Items
+title: 3GPP Work Items
 parent: eXtended Reality (XR)
 has_children: false
 nav_order: 1
