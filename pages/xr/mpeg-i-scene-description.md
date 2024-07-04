@@ -28,18 +28,20 @@ MPEG-I SD defined the following reference architecture.
 
 ## Vendor extensions to Khronos glTF 2.0
 ### Core extension
-A first set of extensions enable the timed framework including:
+![image](https://github.com/jordijoangimenez/Standards/assets/87380947/ea29dc34-e72c-4ec2-914d-db4fd0790546)
+
+A first set of extensions (green in the figure) enable the timed framework including:
 * [<em>MPEG_media</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_media/README.md), which enables the referencing of external media streams that are delivered over protocols such as RTP/SRTP, MPEG-DASH, or others
 * [<em>MPEG_accessor_timed</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_accessor_timed/README.md), used in a scene that contains timed media and/or metadata to describe access to the dynamically changing data
 * [<em>MPEG_buffer_circular</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_buffer_circular/README.md), to extend the buffer into a circular buffer
 
-![image](https://github.com/jordijoangimenez/Standards/assets/87380947/ea29dc34-e72c-4ec2-914d-db4fd0790546)
-
-A second group of extensions enables the inclusion of dynamic and temporal media including:
+A second group of extensions (gray in the figure) enables the inclusion of dynamic and temporal media including:
 * [<em>MPEG_texture_video</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_texture_video/README.md). provides the possibility to link a texture object defined in glTF 2.0 to media and its respective track
 * [<em>MPEG_audio_spatial</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_audio_spatial/README.md), to support spatial audio
 * [<em>MPEG_mesh_linking</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_mesh_linking/README.md), provides the possibility to link a mesh to another mesh in a glTF asset
 * [<em>MPEG_scene_dynamic</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_scene_dynamic/README.md), [<em>MPEG_viewport_recommended</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_viewport_recommended/README.md), and [<em>MPEG_animation_timing</em>](https://github.com/KhronosGroup/glTF/blob/main/extensions/2.0/Vendor/MPEG_animation_timing/README.md), which indicate that a particular form of timed data is provided to the Presentation Engine during the consumption of the scene and that it shall adapt to the changing information.
+
+![image](https://github.com/jordijoangimenez/Standards/assets/87380947/2c54bdac-4b10-4558-a7bd-e49959808dbb)
 
 A third group of extensions enables the distribution of real-time immersive and interactive media content including:
 * Augmented Reality anchor (<em>MPEG_scene_anchor</em>, <em>MPEG_node_anchor</em>), to support AR experiences where virtual content is inserted into the user's real environment
@@ -47,8 +49,6 @@ A third group of extensions enables the distribution of real-time immersive and 
 * Avatar (<em>MPEG_node_avatar</em>), to support the representation of 3D avatars.
 * Lighting (<em>MPEG_light</em>), to provide a realistic user experience including shadows and lighting.
 * Haptics (<em>MPEG_haptic</em>, <em>MPEG_material_haptic</em>), to support haptics based on the MPEG standard for Coded representation of Haptics ny attaching haptic information to a node or to a mesh.
-![image](https://github.com/jordijoangimenez/Standards/assets/87380947/2c54bdac-4b10-4558-a7bd-e49959808dbb)
-
 
 
 ## References:
