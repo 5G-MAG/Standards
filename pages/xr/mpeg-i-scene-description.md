@@ -7,7 +7,7 @@ has_children: false
 nav_order: 0
 ---
 
-# 📑 Overview on MPEG-I Scene Description
+# Overview on MPEG-I Scene Description
 MPEG-I Scene Description (MPEG-I SD) is a standard developed by MPEG for immersive media.
 It defines the structure and composition of a 3D scene, referencing and positioning 2D and 3D assets in the scene, and provides information for rendering the scene properly.
 
