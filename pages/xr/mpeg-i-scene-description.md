@@ -27,7 +27,6 @@ MPEG-I SD defined the following reference architecture.
 * The Buffers are fed by the processed media with a format defined through the scene description document in SO/IEC 23090-14
 
 ## Vendor extensions to Khronos glTF 2.0
-### Core extension
 ![image](https://github.com/jordijoangimenez/Standards/assets/87380947/ea29dc34-e72c-4ec2-914d-db4fd0790546)
 
 A first set of extensions (green in the figure) enable the timed framework including:
