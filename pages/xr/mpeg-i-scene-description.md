@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Specifications
+title: MPEG Specifications
 grand_parent: eXtended Reality (XR)
 parent: Specifications
 has_children: false
