@@ -6,7 +6,7 @@ has_children: false
 nav_order: 0
 ---
 
-# Relevant 3GPP Specifications
+# Related 3GPP Specifications
 
 This is a list of specifications in the scope of eXtended Reality (XR).
 
