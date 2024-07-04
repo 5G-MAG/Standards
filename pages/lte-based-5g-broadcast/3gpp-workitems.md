@@ -6,4 +6,4 @@ has_children: false
 nav_order: 1
 ---
 
-# 📑 Relevant Work Items
+# Related 3GPP Work Items
