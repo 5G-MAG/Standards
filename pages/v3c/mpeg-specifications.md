@@ -2,7 +2,7 @@
 layout: default
 title: MPEG Specifications
 parent: Volumetric Video (V3C)
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
