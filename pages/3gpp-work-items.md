@@ -2,7 +2,7 @@
 layout: default
 title: 3GPP Work Items per Release
 has_children: false
-nav_order: 7
+nav_order: 8
 ---
 
 # 3GPP Work Items per Release
