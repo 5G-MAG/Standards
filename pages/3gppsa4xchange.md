@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3GPP SA4 XCHANGE
+title: 3GPP SA4 Xchange
 has_children: false
 nav_order: 2
 ---
