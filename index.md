@@ -14,10 +14,10 @@ This website serves as an umbrella for documentation related to standards and sp
 More information on Standards and Specifications can be found at [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
 ## Feedback
-5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. Check [Feedback to Specifications](/pages/feedback.html) for all the details.
+5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. Check [Feedback to Specifications](./pages/feedback.html) for all the details.
 
 ### 3GPP SA4 XCHANGE
-Check [3GPP SA4 Xchange](/pages/3gppsa4xchange.html) for all the details.
+Check [3GPP SA4 Xchange](./pages/3gppsa4xchange.html) for all the details.
 
 ## Specification Profiles and Guidelines
 
