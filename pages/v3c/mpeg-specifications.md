@@ -8,9 +8,9 @@ nav_order: 1
 
 # Related MPEG Specifications
 
-This is a list of specifications in the scope of eXtended Reality (XR).
+This is a list of specifications in the scope of Volumetric Video (V3C).
 
-## MPEG-I Scene Description
+## MPEG-I Standards
 
  Number | Title  
  -- | --
