@@ -2,7 +2,7 @@
 layout: default
 title: References and Quick Guides
 nav_order: 2
-has_children: false
+has_children: yes
 ---
 
 # Specifications - References and Quick Guides
