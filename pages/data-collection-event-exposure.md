@@ -2,7 +2,7 @@
 layout: default
 title: UE data collection, reporting and event exposure
 parent: References and Quick Guides
-has_children: true
+has_children: false
 nav_order: 2
 ---
 
