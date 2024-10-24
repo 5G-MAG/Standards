@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-# 5G Media Streaming
+# 5G Media Streaming Architecture
 
 ## Related documentation
 
