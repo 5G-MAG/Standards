@@ -12,12 +12,10 @@ nav_order: 8
 
 ### 5G-MAG TECH XCHANGE
 
-#### Teaser on 5G and XR (3GPP Release 16/17/18)
+### 5G-MAG TECH XCHANGE: Teaser on 5G and XR (3GPP Release 16/17/18)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q0eyTt3KAs4?si=eqrjPkhslTFoEt8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Other Sources
-
-#### glTF 2.0 Extensions in MPEG and 3GPP - Real time exchange for 3D Experiences
+### glTF 2.0 Extensions in MPEG and 3GPP - Real time exchange for 3D Experiences
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U9VgiYORNrA?si=9Sc935pfpkMkJeJA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Technical Papers
