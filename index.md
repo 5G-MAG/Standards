@@ -17,7 +17,7 @@ More information on Standards and Specifications can be found at [https://www.5g
 Documentation on specifications under the scope of 5G-MAG's topics and areas of work are hosted here.
 
 {: .note }
-Help us improving the documentation. Raise an ["Repo Documentation" issue](https://github.com/5G-MAG/Standards/issues/new/choose) if you would like to provide more references, audiovisual material and technical papers.
+Help us improving the documentation. Raise a ["Repo Documentation" issue](https://github.com/5G-MAG/Standards/issues/new/choose) if you would like to provide more references, audiovisual material and technical papers.
 
 Check this [link](pages/standards.html) for more details.
 
