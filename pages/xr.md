@@ -1,9 +1,9 @@
 ---
 layout: default
 title: eXtended Reality (XR)
-grand_parent: References and Quick Guides
+parent: References and Quick Guides
 has_children: true
-nav_order: 5
+nav_order: 7
 ---
 
 # eXtended Reality (XR)
