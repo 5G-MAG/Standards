@@ -20,7 +20,7 @@ Documentation on specifications under the scope of 5G-MAG's topics and areas of 
 5G-MAG maintains [this GitHub repository](https://github.com/5G-MAG/Standards/issues) open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. Check [Feedback to Specifications](pages/feedback.html) for all the details.
 
 {: .important }
-5G-MAG has currently an open process to providing feedback to the following sets of specifications.
+5G-MAG has currently an open process to provide feedback to the following sets of specifications.
   * [3GPP Specifications](https://github.com/orgs/5G-MAG/projects/33/views/1)
   * [ETSI TS 103 720](https://github.com/orgs/5G-MAG/projects/32)
   * [ETSI TS 103 972](https://github.com/orgs/5G-MAG/projects/31)
