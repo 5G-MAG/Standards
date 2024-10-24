@@ -25,7 +25,7 @@ has_children: yes
 ## 5G Multicast Broadcast Services (MBS)
 * [Specifications and related information](./5g-multicast-broadcast-services.html)
 
-## 5G Multicast Broadcast Services (MBS)
+## DVB-I Services over 5G
 * [Specifications and related information](./dvb-i-5g.html)
 
 ## eXtended Reality (XR)
