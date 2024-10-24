@@ -9,33 +9,13 @@ has_children: false
 
 # Standards, Specifications and Feedback
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work. 
+Check [here](pages/standards.html) for all the details.
 
 {: .note }
 More information on Standards and Specifications can be found at [https://www.5g-mag.com/standards](https://www.5g-mag.com/standards).
 
-## Feedback
-5G-MAG maintains this GitHub repository open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. Check [Feedback to Specifications](pages/feedback.html) for all the details.
+## Feedback to Specifications
+5G-MAG maintains [this GitHub repository](https://github.com/5G-MAG/Standards/issues) open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. Check [Feedback to Specifications](pages/feedback.html) for all the details.
 
-### 3GPP SA4 XCHANGE
+## Regular XCHANGE with 3GPP SA4
 Check [3GPP SA4 Xchange](pages/3gppsa4xchange.html) for all the details.
-
-## Specification Profiles and Guidelines
-
-### 5G Media Streaming
-* [Specifications and related information](pages/5g-media-streaming.html)
-
-### MBMS and LTE-based 5G Broadcast
-* [Specifications and related information](pages/lte-based-5g-broadcast.html)
-
-### 5G Multicast Broadcast Services (MBS)
-* [Specifications and related information](pages/5g-multicast-broadcast-services.html)
-
-### Multimedia content delivery
-* [Specifications and related information](pages/multimedia-content-delivery.html)
-
-### XR (eXtended Reality)
-* [Specifications and related information](pages/xr.html)
-
-### Volumetric Video (V3C)
-* [Specifications and related information](pages/volumetric-video.html)
- 
