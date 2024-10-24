@@ -10,9 +10,7 @@ nav_order: 9
 
 ## Related documentation
 
-### Other Sources
-
-#### AWE EU 2022 Day 1 XR Enablement Track: Video Based Immersive Codecs
+### AWE EU 2022 Day 1 XR Enablement Track: Video Based Immersive Codecs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/woNCWjx_S2s?si=XhQ8XOjvlQCXRXz1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Technical Papers
