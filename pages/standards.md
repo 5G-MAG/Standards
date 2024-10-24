@@ -7,10 +7,10 @@ has_children: false
 
 # Specifications - References and Quick Guides
 
-## 5G Media Streaming
+## 5G Media Streaming Architecture
 * [Specifications and related information](./5g-media-streaming.html)
 
-## MBMS and LTE-based 5G Broadcast
+## 5G Broadcast: MBMS and LTE-based 5G Broadcast
 * [Specifications and related information](./lte-based-5g-broadcast.html)
 
 ## 5G Multicast Broadcast Services (MBS)
