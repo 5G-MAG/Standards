@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 3GPP Specifications
+grand_parent: References and Quick Guides
 parent: eXtended Reality (XR)
 has_children: false
 nav_order: 0
