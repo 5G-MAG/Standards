@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Overview on MPEG-I Scene Description
-grand_parent: eXtended Reality (XR)
-parent: MPEG Specifications
+grand_parent: References and Quick Guides
+parent: eXtended Reality (XR)
 has_children: false
 nav_order: 0
 ---
