@@ -1,8 +1,9 @@
 ---
 layout: default
+parent: References and Quick Guides
 title: 3GPP Work Items per Release
 has_children: false
-nav_order: 8
+nav_order: 0
 ---
 
 # 3GPP Work Items per Release
