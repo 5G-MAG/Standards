@@ -8,6 +8,16 @@ nav_order: 6
 
 # 5G Multicast Broadcast Services (MBS)
 
+## Related documentation
+
+### 5G-MAG TECH XCHANGE
+
+#### User Services for the 5G Multicast-Broadcast Service (3GPP Release 17)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/73KINNxl_FA?si=Jbj6BID6uaXxFGOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Technical Papers
+TBD
+
 ## Related 3GPP Specifications
 
 This is a list of specifications in the scope of 5G Multicast Broadcast Services.
