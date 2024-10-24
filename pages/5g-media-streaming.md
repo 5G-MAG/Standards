@@ -2,7 +2,7 @@
 layout: default
 title: 5G Media Streaming Architecture
 parent: References and Quick Guides
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
