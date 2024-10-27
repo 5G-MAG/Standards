@@ -11,7 +11,7 @@ nav_order: 4
 
  Meeting | Title  
  -- | --
-[3GPP SA4 MBS AHG post 129-e](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip) | Progress on 5G-MAG Reference Tools Projects January'24
+[3GPP SA4 MBS AHG post 129-e](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip) | LS on 5G-MAG INSIGHTS, Reference Tools and resolution of issues in 3GPP media delivery specifications
 [3GPP RAN#105](https://www.3gpp.org/ftp/TSG_RAN/TSG_RAN/TSGR_105/Docs/RP-241721.zip) | LS on 5G-MAG activities on LTE-based 5G Terrestrial Broadcast and ETSI TS 103 720
 [3GPP SA1#107](https://www.3gpp.org/ftp/Meetings_3GPP_SYNC/SA1/Inbox/S1-242336.zip) | LS on 5G-MAG Work on NTN for Media Distribution: Devices, services, communication mechanisms and deployment models
 [3GPP SA4#127](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_127_Sophia-Antipolis/Docs/S4-240311.zip) | Progress on 5G-MAG Reference Tools Projects January'24
