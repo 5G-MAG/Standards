@@ -2,7 +2,7 @@
 layout: default
 title: Liaison Statements
 has_children: false
-nav_order: 9
+nav_order: 4
 ---
 
 # Liaison Statements
