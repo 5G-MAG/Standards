@@ -1,3 +1,11 @@
+---
+layout: default
+title: Feedback to 3GPP
+parent: Feedback to Specifications
+nav_order: 1
+has_children: false
+---
+
 # Status of standards tickets by end 2024
 ## Issues that should have been resolved earlier in the year
 
