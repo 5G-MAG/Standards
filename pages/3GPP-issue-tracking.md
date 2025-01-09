@@ -7,7 +7,7 @@ has_children: false
 ---
 # Feedback to 3GPP
 
-## Status of standards tickets by end 2024
+## XCHANGE 09/01/2025 - Status of standards tickets by end 2024
 ### Issues that should have been resolved earlier in the year
 
 |#| Title |	Assignees	| Status | Labels | Milestone |
@@ -50,3 +50,21 @@ A CR has been drafted for the following new issue, and was endorsed by the SA4 M
 |[#118](https://github.com/5G-MAG/Standards/issues/118)|FAR Apply Action "FSSM" in PFCP Session Establishment for MBS |Borjis131, jordijoangimenez |	Pre-Acceptance | 3GPP Rel-17, 3GPP TS 29.244, Doubt, MBS Broadcast| |	
 |[#124](https://github.com/5G-MAG/Standards/issues/124)|Identical EARFCN assignment for E-UTRA bands 106 and 107 |	jordijoangimenez | Pre-Acceptance	| 3GPP Rel-18, 3GPP TS 36.101, Clarification	|
 |[#126](https://github.com/5G-MAG/Standards/issues/126)|Common start of the first MCCH modification period |	jordijoangimenez |	Pre-Acceptance	| 3GPP TS 36.300, Clarification
+
+## XCHANGE 10/10/2024
+###	Resolution of issues found in 3GPP technical specifications
+5G-MAG has been collecting feedback on 3GPP specifications since our last XCHANGE with 3GPP SA4. The issues raised by developers are in [GitHub: Kanban · Specifications - 3GPP - Feedback (github.com)](https://github.com/orgs/5G-MAG/projects/33/views/1).
+
+|#| Title |	3GPP TS impacted	| TDoc # |
+|-|-------|-----------|--------|
+|[#104](https://github.com/5G-MAG/Standards/issues/104)|TS26.512: M1 Policy Template Provisioning - Return codes for error handling of put operation | TS 26.512 Rel-17| - |
+|[#146](https://github.com/5G-MAG/Standards/issues/146)|TS 26.512 V17.9.0: Discrepancies between normative tables and OpenAPI YAML|TS 26.512 Rel-17	| S4aI240116 |
+|[#141](https://github.com/5G-MAG/Standards/issues/141)|Lack of support for preselecting a Service Operation Point | TS 26.510 Rel-18 TS 26.512 Rel-18 |	S4aI240133 |
+|[#148](https://github.com/5G-MAG/Standards/issues/148)|Gaps identified in support for Background Data Transfer at reference point M6| TS 26.512 Rel-18	| S4aI240146 |
+|[#149](https://github.com/5G-MAG/Standards/issues/149)|Gaps identified in support for Background Data Transfer at reference point M7| TS 26.512 Rel-18	| S4aI240147 |
+
+Note that:
+-	The content of TS 26.512 Rel-17 CR0080 [S4aI240116] (issue #146) was agreed in the SA4 MBS ad hoc meeting preceding SA4#130.
+-	Stage-2 fixes for issue #141 were agreed at the SA4#129e meeting and approved for publication at SA#105; for stage-3, TS 26.512 Rel-18 CR0081 is to be looked at by the present SA4 MBS meeting.
+-	Issues #148 and #149 are raised in the context of the feasibility analysis and usage guidelines for the deployment of Uplink 5G Media Steaming (5GMSu) and RTC architectures (as mentioned above) and as described by the Discussion Paper S4aI240135.
+
