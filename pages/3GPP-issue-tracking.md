@@ -5,16 +5,17 @@ parent: Feedback to Specifications
 nav_order: 1
 has_children: false
 ---
+# Feedback to 3GPP
 
-# Status of standards tickets by end 2024
-## Issues that should have been resolved earlier in the year
+## Status of standards tickets by end 2024
+### Issues that should have been resolved earlier in the year
 
 |#| Title |	Assignees	| Status | Labels | Milestone |
 |-|-------|-----------|--------|--------|-----------|
 |[#122](https://github.com/5G-MAG/Standards/issues/122)|QoE Metrics Reporting: M1 Provisioning - reportingInterval shall be greater than zero |	rjb1000 |	Published	| 3GPP Rel-16, 3GPP Rel-17, 3GPP Rel-18, 3GPP TS 26.510, 3GPP TS 26.512, 5GMS Metrics Reporting, Improvement | |	
 |[#123](https://github.com/5G-MAG/Standards/issues/123)|QoE Metrics Reporting - M1 Provisioning - samplingPeriod can be negative |	rjb1000	| Published	| 3GPP Rel-16, 3GPP Rel-17, 3GPP Rel-18, 3GPP TS 26.510, 3GPP TS 26.512, 5GMS Metrics Reporting, Improvement | |
 
-## Issues with CRs approved at SA#106 (Madrid) December 2024
+### Issues with CRs approved at SA#106 (Madrid) December 2024
 MCC has very recently implemented these CRs, targeting publication of new specifications by mid January. Drafts not checked yet.
 
 |#| Title |	Assignees	| Status | Labels | Milestone |
@@ -24,14 +25,14 @@ MCC has very recently implemented these CRs, targeting publication of new specif
 |[#149](https://github.com/5G-MAG/Standards/issues/149)|TS 26.510: Gaps identified in support for Background Data Transfer at reference point M6 |haudiobe, ibouazizi, rjb1000, tlohmar|Approved for publication by Technical Body|3GPP Rel-18, 3GPP TS 26.501, 3GPP TS 26.510, 5GMS Dynamic Policies |	3GPP SA4#130→SA#106|
 |[#148](https://github.com/5G-MAG/Standards/issues/148)|TS 26.512: Gaps identified in support for Background Data Transfer at reference point M7 | rjb1000 |Approved for publication by Technical Body |3GPP Rel-18, 3GPP TS 26.512, 5GMS Dynamic Policies| 3GPP SA4#130→SA#106|
 
-## New issues adopted in current meeting cycle
+### New issues adopted in current meeting cycle
 A CR has been drafted for the following new issue, and was endorsed by the SA4 MBS ad hoc meeting on 8th Jan.
 
 |#| Title |	Assignees	| Status | Labels | Milestone |
 |-|-------|-----------|--------|--------|-----------|
 |[#120](https://github.com/5G-MAG/Standards/issues/120)|TS 26.346 FLUTE FDT Profile for 5MBS & delimiter usage	| chburdinat, haudiobe, jordijoangimenez, rjb1000, tlohmar	| Change contribution drafting	| 3GPP Rel-17, 3GPP Rel-18, 3GPP TS 26.346, Doubt |	3GPP SA4#131→SA#107 |
 
-## Adopted issues that nobody is actively working on right now
+### Adopted issues that nobody is actively working on right now
 
 |#| Title |	Assignees	| Status | Labels | Milestone |
 |-|-------|-----------|--------|--------|-----------|
@@ -40,7 +41,7 @@ A CR has been drafted for the following new issue, and was endorsed by the SA4 M
 |[#35](https://github.com/5G-MAG/Standards/issues/35)|ProvisioningSession resource returned by 5GMS AF at M1 does not include information about all its subresources	| fredericgabin, haudiobe, jordijoangimenez, rjb1000, tlohmar |	Adopted	| 3GPP Rel-16, 3GPP Rel-17, 3GPP TS 26.512, Adopted, Improvement	| 3GPP SA4#127→SA#103 |
 |[#61](https://github.com/5G-MAG/Standards/issues/61)|TS 26.512 Policy Template state change events |	fredericgabin, rjb1000, tlohmar	| Adopted	| 3GPP Rel-18, 3GPP TS 26.510, 5GMS Dynamic Policies, Adopted, Improvement	| 3GPP SA4#127→SA#103|
 
-## Unadopted issues
+### Unadopted issues
 |#| Title |	Assignees	| Status | Labels | Milestone |
 |-|-------|-----------|--------|--------|-----------|
 |[#49](https://github.com/5G-MAG/Standards/issues/49)|Discussion Item: Signaling of DRM information via ServiceAccessInformation	| dsilhavy, haudiobe | Pre-Acceptance	3GPP Rel-19, 3GPP TS 26.512, 5GMS Service Access/Launch, Discussion, New Feature	| 3GPP SA4#127→SA#103 |
