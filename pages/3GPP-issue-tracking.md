@@ -70,6 +70,7 @@ Note that:
 
 ## XCHANGE 07/03/2024
 ### Adopted TS 26.512 issues
+
 [#] | Milestone
 -- | --
 [#119](https://github.com/5G-MAG/Standards/issues/119) | 3GPP SA4#127-e-bis→SA#104 
