@@ -68,3 +68,22 @@ Note that:
 -	Stage-2 fixes for issue #141 were agreed at the SA4#129e meeting and approved for publication at SA#105; for stage-3, TS 26.512 Rel-18 CR0081 is to be looked at by the present SA4 MBS meeting.
 -	Issues #148 and #149 are raised in the context of the feasibility analysis and usage guidelines for the deployment of Uplink 5G Media Steaming (5GMSu) and RTC architectures (as mentioned above) and as described by the Discussion Paper S4aI240135.
 
+## XCHANGE 07/03/2024
+### Adopted TS 26.512 issues
+|#| Milestone |
+|-|-------|
+|[#119](https://github.com/5G-MAG/Standards/issues/119) | 3GPP SA4#127-e-bis→SA#104 |
+|[#102](https://github.com/5G-MAG/Standards/issues/102) | 3GPP SA4#128→SA#104 
+|[#104](https://github.com/5G-MAG/Standards/issues/104) | Milestone 3GPP SA4#128→SA#104
+
+### Adopted TS 26.532 issues
+|[#110](https://github.com/5G-MAG/Standards/issues/110) | 3GPP SA4#128→SA#104 
+|[#111](https://github.com/5G-MAG/Standards/issues/111) | 3GPP SA4#127-e-bis→SA#104 
+|[#112](https://github.com/5G-MAG/Standards/issues/112) | 3GPP SA4#127-e-bis→SA#104 
+|[#113](https://github.com/5G-MAG/Standards/issues/113) | 3GPP SA4#127-e-bis→SA#104 
+|[#115](https://github.com/5G-MAG/Standards/issues/115) | 3GPP SA4#127-e-bis→SA#104 
+|[#116](https://github.com/5G-MAG/Standards/issues/116) | 3GPP SA4#127-e-bis→SA#104 
+|[#117](https://github.com/5G-MAG/Standards/issues/117) | 3GPP SA4#127-e-bis→SA#104
+
+### Adopted TS 29.571 issues
+|[#106](https://github.com/5G-MAG/Standards/issues/106) | 3GPP SA4#127-e-bis→SA#104
