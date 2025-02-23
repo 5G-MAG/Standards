@@ -5,7 +5,7 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="/assets/images/Banner_Std.png" /> 
+<img src="{{site.baseurl}}/assets/images/Banner_Std.png" /> 
 
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work.
 
