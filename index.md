@@ -5,9 +5,8 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="{{site.baseurl}}/assets/images/5g-mag-logo-with-text.png" alt="5g-mag" style="height:50px">
+<img src="/assets/images/Banner_Std.png" /> 
 
-# Standards, Specifications and Feedback
 This website serves as an umbrella for documentation related to standards and specifications within the scope of 5G-MAG's work.
 
 {: .note }
