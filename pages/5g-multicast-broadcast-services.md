@@ -85,7 +85,8 @@ This is a list of specifications in the scope of 5G Multicast Broadcast Services
 * [3GPP TS 38.470](https://www.3gpp.org/DynaReport/38470.htm) - NG-RAN; F1 general aspects and principles
 * [3GPP TS 38.473](https://www.3gpp.org/DynaReport/38473.htm) - NG-RAN; F1 application protocol (F1AP)
 * [3GPP TS 38.460](https://www.3gpp.org/DynaReport/38460.htm) - NG-RAN; E1 general aspects and principles
-* [3GPP TS 38.463](https://www.3gpp.org/DynaReport/38463.htm) - NG-RAN; E1 application protocol (E1AP)
+* [3GPP TS 38.463](https://www.3gpp.org/DynaReport/38463.htm) - NG-RAN; E1 application protocol (E1AP) - deprecated from Rel-17
+* [3GPP TS 37.483](https://www.3gpp.org/DynaReport/37483.htm) - NG-RAN; E1 application protocol (E1AP) - from Rel-17 onwards
 * [3GPP TS 38.415](https://www.3gpp.org/DynaReport/38415.htm) - NG-RAN; PDU Session User Plane Protocol
 * [3GPP TS 38.425](https://www.3gpp.org/DynaReport/38425.htm) - NG-RAN; NR user plane protocol
 
