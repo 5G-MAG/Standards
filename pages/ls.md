@@ -11,6 +11,7 @@ nav_order: 4
 
  Meeting | Title  
  -- | --
+3GPP PCG#54 | [5G-MAG MRP Report: Update on 5G-MAG’s Work](https://www.3gpp.org/ftp/PCG/PCG_54/Docs/PCG54_39.zip)
 3GPP SA4#131 | [[DEMOS] 5G-MAG Reference Tools: Demonstrators at SA4#131 Meeting](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_131_Geneva/Docs/S4-250224.zip)
 3GPP SA4#130 | [LS on uplink media delivery features for 5GMSu and RTC](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_130_Orlando/Docs/S4-241819.zip)
 3GPP SA4 MBS AHG post 129-e | [LS on 5G-MAG INSIGHTS, Reference Tools and resolution of issues in 3GPP media delivery specifications](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip)
