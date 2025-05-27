@@ -9,6 +9,12 @@ nav_order: 0
 
 # Related 3GPP Work Items
 
+## Release 19
+
+Work Item | Acronym | Title | Rel | WG
+-- | -- | -- | -- | --
+1040022 | FS_ARSpatial | Study on Spatial Computing for AR Services | Rel‑19 | S4
+
 ## Release 18
 
 Work Item | Acronym | Title | Rel | WG
