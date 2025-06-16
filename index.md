@@ -23,6 +23,7 @@ More information on Standards and Specifications can be found at [https://www.5g
 
 ### Check [Feedback to Specifications](pages/feedback.html) for all the details.
 
+
 {: .important }
 5G-MAG has currently an open process to provide feedback to the following sets of specifications.
   * [3GPP Specifications](https://github.com/orgs/5G-MAG/projects/33/)
