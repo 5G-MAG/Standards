@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Liaison Statements
+title: LS & Inputs
 has_children: false
 nav_order: 4
 ---
