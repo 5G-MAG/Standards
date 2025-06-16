@@ -19,13 +19,13 @@ To report a bug, request a new feature or express a doubt, please create a **[ne
 
 ----
 
-## Feedback to ETSI TS 103 720 "5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system"
+## Feedback to ETSI TS 103 720 "5G Broadcast System for linear TV and radio services"
 ### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
 ### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/32) which displays the status of the issues
 
 ----
 
-## Feedback to ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems" (resulting from a Joint TastForce between DVB and 5G-MAG)
+## Feedback to ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems"
 ### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
 ### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/31) which displays the status of the issues
 
