@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Requirements towards SDOs
-nav_order: 1
-has_children: true
+nav_order: 0
+has_children: false
 ---
 
 # Requirements towards SDOs
