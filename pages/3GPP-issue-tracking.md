@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Feedback to 3GPP
+title: 3GPP Issue Tracking
 parent: Feedback to Specifications
 nav_order: 1
 has_children: false
 ---
-# Feedback to 3GPP
+# Tracking of Issues and Feedback to 3GPP
 
 ## XCHANGE 09/01/2025 - Status of standards tickets by end 2024
 ### Issues that should have been resolved earlier in the year
@@ -67,6 +67,115 @@ Note that:
 -	The content of TS 26.512 Rel-17 CR0080 [S4aI240116] (issue #146) was agreed in the SA4 MBS ad hoc meeting preceding SA4#130.
 -	Stage-2 fixes for issue #141 were agreed at the SA4#129e meeting and approved for publication at SA#105; for stage-3, TS 26.512 Rel-18 CR0081 is to be looked at by the present SA4 MBS meeting.
 -	Issues #148 and #149 are raised in the context of the feasibility analysis and usage guidelines for the deployment of Uplink 5G Media Steaming (5GMSu) and RTC architectures (as mentioned above) and as described by the Discussion Paper S4aI240135.
+
+## XCHANGE 02/05/2024
+
+### Issues to be covered at the session
+
+See [Kanban board](https://github.com/orgs/5G-MAG/projects/33) for overview of open issues.
+
+Issues | TDoc | Type | Rel | Topic | Contributor | Status | For | Spec / Number
+-- | -- | -- | -- | -- | -- | -- | -- | --
+[#119](https://github.com/5G-MAG/Standards/issues/119), [#122](https://github.com/5G-MAG/Standards/issues/122), [#123](https://github.com/5G-MAG/Standards/issues/123), [#128](https://github.com/5G-MAG/Standards/issues/128) | S4aI240047 | CR | Rel-17 | [5GMS3,   TEI17] Metrics reporting corrections | BBC | available | Endorsement | Spec:   26.512 CR0069
+[#110](https://github.com/5G-MAG/Standards/issues/110), [#125](https://github.com/5G-MAG/Standards/issues/125) | S4aI240051 | CR | Rel-18 | [EVEX]   Essential corrections | BBC | available | Decision | Spec:   26.532 CR0011
+[#110](https://github.com/5G-MAG/Standards/issues/110) | S4aI240050 | CR | Rel-18 | [EVEX,   TEI18] Add missing explicit data reporting and event exposure parameters | BBC | available | Decision | Spec:   26.512 CR0070
+[#110](https://github.com/5G-MAG/Standards/issues/110) | S4aI240049 | pCR | Rel-18 | [EVEX,   TEI18] Add missing implicit data reporting parameters | BBC | available | Decision | Spec:   26.510
+[#110](https://github.com/5G-MAG/Standards/issues/110) | S4aI240053 | CR | Rel-18 | [EVEX,   TEI18] Additional QM10 reporting schema fields for alignment | BBC | available | Discussion | Spec:   26.247
+
+### CRs
+S4aI240043 | [5MBUSA] Corrections based on stage-3 fixes | Qualcomm Incorporated, BBC | Richard Bradbury
+-- | -- | -- | --
+
+[S4aI240043](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240043.zip) is postponed.
+
+S4aI240047 | [5GMS3, TEI17] Metrics reporting corrections | BBC | Richard Bradbury
+-- | -- | -- | --
+
+E-mail Discussion:
+
+Revisions: none
+
+Presenter: Richard Bradbury
+
+Decision: endorsed 
+
+[S4aI240047](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240047.zip) is Endorsed.
+
+S4aI240050 | [EVEX, TEI18] Add missing explicit data reporting   and event exposure parameters | BBC | Richard Bradbury
+-- | -- | -- | --
+
+E-mail Discussion:
+
+Revisions: none
+
+Presenter: Richard Bradbury
+
+Decision: Endorsed 
+
+[S4aI240050](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240050.zip) is endorsed
+
+
+S4aI240051 | [EVEX] Essential corrections | BBC | Richard Bradbury
+-- | -- | -- | --
+
+E-mail Discussion:
+
+Revisions: none
+
+Presenter: Richard Bradbury
+
+Decision: endorsed
+
+[S4aI240051](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240051.zip) is endorsed.
+
+
+S4aI240053 | [EVEX, TEI18] Additional QM10 reporting schema   fields for alignment | BBC | Richard Bradbury
+-- | -- | -- | --
+
+E-mail Discussion:
+
+Revisions: none
+
+Presenter: Richard Bradbury
+
+
+Decision: endorsed 
+
+[S4aI240053](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240053.zip) is endorsed
+
+S4aI240044 | [5GMS_Pro_Ph2] Consolidated media plane   enhancements | Qualcomm Incorporated, Ericsson LM, Tencent, BBC | Richard Bradbury
+-- | -- | -- | --
+
+[S4aI240044](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240044.zip) is postponed.
+
+S4aI240045 | TS 26.510 Editor's draft V1.1 | BBC (Editor) | Richard Bradbury
+-- | -- | -- | --
+
+[S4aI240045](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240045.zip) is postponed.
+
+S4aI240046 | [5GMS_Pro_Ph2] Media delivery session identifier at   M4+M7+M11 | BBC | Richard Bradbury
+-- | -- | -- | --
+
+[S4aI240046](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240046.zip) is postponed.
+
+S4aI240048 | [5GMS_Pro_Ph2] Per-flow QoS bindings | BBC | Richard Bradbury
+-- | -- | -- | --
+
+
+[S4aI240048](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240048.zip) is postponed.
+
+S4aI240049 | [EVEX, TEI18] Add missing implicit data reporting   parameters | BBC | Richard Bradbury
+-- | -- | -- | --
+
+E-mail Discussion:
+
+Revisions: none
+
+Presenter: Richard Bradbury
+
+Decision: agreed 
+
+[S4aI240049](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240049.zip) is agreed.
 
 ## XCHANGE 07/03/2024
 ### Adopted TS 26.512 issues
