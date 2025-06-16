@@ -12,22 +12,22 @@ has_children: true
 To report a bug, request a new feature or express a doubt, please create a **[new issue](https://github.com/5G-MAG/Standards/issues/new/choose)** with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 ## Feedback to 3GPP (Third Generation Partnership Project) Specifications
-### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
-### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/33) which displays the status of the issues
+### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
+### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/33) which displays the status of the issues
 
 ### 5G-MAG and 3GPP SA4 have also established regular meetings to discuss the feedback on-line. The tracking of the issues and notes can be found in [XCHANGE with 3GPP - Issue Tracking](https://5g-mag.github.io/Standards/pages/3GPP-issue-tracking.html).
 
 ----
 
 ## Feedback to ETSI TS 103 720 "5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system"
-### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
-### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/32) which displays the status of the issues
+### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
+### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/32) which displays the status of the issues
 
 ----
 
 ## Feedback to ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems" (resulting from a Joint TastForce between DVB and 5G-MAG)
-### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
-### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/31) which displays the status of the issues
+### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
+### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/31) which displays the status of the issues
 
 ----
 # Methodology to provide feedback
