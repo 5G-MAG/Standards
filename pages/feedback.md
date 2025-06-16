@@ -12,19 +12,28 @@ has_children: true
 To report a bug, request a new feature or express a doubt, please create a **[new issue](https://github.com/5G-MAG/Standards/issues/new/choose)** with a corresponding template. Issues will be regularly reviewed by 5G-MAG according to the following workflows.
 
 ## Feedback to 3GPP (Third Generation Partnership Project) Specifications
-- [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
-- [Project Board](https://github.com/orgs/5G-MAG/projects/33)
+### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen%20is%3Aissue%20project%3A5g-mag%2F33)
+### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/33) which displays the status of the issues
 
-5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Check the Agendas and Notes of the [3GPP SA4 XCHANGE](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
+Note that 5G-MAG and 3GPP SA4 are regularly meeting to fix specifications and provide feedback from developers. Check the Agendas and Notes of the [3GPP SA4 XCHANGE](https://5g-mag.github.io/Standards/pages/3gppsa4xchange.html).
 
-![](https://static.wixstatic.com/media/7898a9_30ba00fb9e99459d89bff92cc40d0f5c~mv2.png/v1/fill/w_942,h_451,al_c,q_90,enc_auto/Loop1.png)
+----
 
 ## Feedback to ETSI TS 103 720 "5G Broadcast System for linear TV and radio services; LTE-based 5G terrestrial broadcast system"
-- [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
-- [Project Board](https://github.com/orgs/5G-MAG/projects/32)
+### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
+### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/32) which displays the status of the issues
+
+----
 
 ## Feedback to ETSI TS 103 972 "Deployment Guidelines for DVB-I services over 5G Systems" (resulting from a Joint TastForce between DVB and 5G-MAG)
-- [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
-- [Project Board](https://github.com/orgs/5G-MAG/projects/31)
+### You can find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F31)
+### You can find here the [Project Board](https://github.com/orgs/5G-MAG/projects/31) which displays the status of the issues
 
-![](https://static.wixstatic.com/media/7898a9_42bece6a420549b9ab9a250817a73367~mv2.png/v1/fill/w_955,h_374,al_c,lg_1,q_85,enc_auto/Loop2.png)
+----
+
+# Methodology
+## Providing feedback to technical specifications and documents maintained by 5G-MAG
+![](../assets/images/Feedback_1.png)
+
+## Providing feedback to technical specifications and documents maintained by an external SDO
+![](../assets/images/Feedback_2.png)
