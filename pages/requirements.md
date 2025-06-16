@@ -5,7 +5,7 @@ nav_order: 1
 has_children: true
 ---
 
-# Service and Network Requirements towards SDOs
+# Requirements towards SDOs
 
 ## Inputs to 3GPP Workshops
 
