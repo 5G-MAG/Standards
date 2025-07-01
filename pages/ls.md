@@ -31,6 +31,9 @@ nav_order: 1
 
  Meeting | Title
  -- | --
+MPEG ISO/IEC JTC 1/SC 29/WG 4 | [m73733 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (MIV)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73733-v1-m73733V3CandHapticImmersiveplatformreleaseon5G-MAGreferencetools.zip)
+MPEG ISO/IEC JTC 1/SC 29/WG 7 | [m73724 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (V-PCC and Haptics)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73724-v1-m73724.zip)
+MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m73539 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m72702 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m71455 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=97524&id_meeting=201)
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m70269 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=96052&id_meeting=200)
