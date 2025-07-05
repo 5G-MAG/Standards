@@ -1,6 +1,6 @@
 ---
 layout: default
-title: References and Quick Guides
+title: Specifications
 nav_order: 4
 has_children: yes
 ---
