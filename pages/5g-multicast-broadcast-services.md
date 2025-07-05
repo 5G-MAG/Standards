@@ -6,7 +6,7 @@ has_children: false
 nav_order: 3
 ---
 
-<img src="../assets/images/Banner_5GBC.png" /> 
+<img src="../assets/images/Banner_5MBS.png" /> 
 
 # 5G Multicast Broadcast Services - Relevant Specifications
 
