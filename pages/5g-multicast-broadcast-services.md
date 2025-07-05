@@ -1,20 +1,14 @@
 ---
 layout: default
 title: 5G Multicast Broadcast Services
-parent: References and Quick Guides
-has_children: true
-nav_order: 6
+parent: Specifications
+has_children: false
+nav_order: 3
 ---
 
-# 5G Multicast Broadcast Services (MBS)
+<img src="../assets/images/Banner_5GBC.png" /> 
 
-## Related documentation
-
-### 5G-MAG TECH XCHANGE: User Services for the 5G Multicast-Broadcast Service (3GPP Release 17)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/73KINNxl_FA?si=Jbj6BID6uaXxFGOP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Technical Papers
-TBD
+# 5G Multicast Broadcast Services - Relevant Specifications
 
 ## Related 3GPP Specifications
 
