@@ -1,12 +1,14 @@
 ---
 layout: default
-title: Multimedia Content Delivery
-parent: References and Quick Guides
+title: Multimedia Delivery Protocols
+parent: Specifications
 has_children: false
-nav_order: 5
+nav_order: 13
 ---
 
-# Multimedia Content Delivery
+<img src="../assets/images/Banner_MD.png" /> 
+
+# Multimedia Delivery Protocols - Relevant Specifications
 
 ## Related IETF Specifications
 
