@@ -7,8 +7,8 @@ has_children: yes
 
 # Work Items, Specifications and Technical Reports
 
- Topic
-| -- | 
+| Topic |
+|-------|
 | [**5G Media Streaming Architecture (5GMS)**](./5g-media-streaming.html) |
 | [**UE data collection, reporting and event exposure**](./data-collection-event-exposure.html) |
 | [**5G Broadcast**](./lte-based-5g-broadcast.html) |
