@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 5G Media Streaming Architecture
+title: 5G Media Streaming
 parent: Specifications
 has_children: false
 nav_order: 0
