@@ -1,20 +1,14 @@
 ---
 layout: default
-title: MBMS and LTE-based 5G Broadcast
-parent: References and Quick Guides
+title: 5G Broadcast
+parent: Specifications
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 
-# 5G Broadcast: MBMS and LTE-based 5G Broadcast
+<img src="../assets/images/Banner_5GBC.png" /> 
 
-## Related documentation
-
-### 5G-MAG TECH XCHANGE: 5G Media Streaming over eMBMS (3GPP Release 17)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m6fU7F0DhS8?si=9levb2nUxu5HyfaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-### Technical Papers
-TBD
+# 5G Broadcast - Relevant Specifications
 
 ## Related 3GPP Specifications
 

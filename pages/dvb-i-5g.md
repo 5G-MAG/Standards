@@ -1,9 +1,11 @@
 ---
 layout: default
 title: DVB-I Services over 5G
-parent: References and Quick Guides
+parent: Specifications
 has_children: false
-nav_order: 6
+nav_order: 14
 ---
 
-# DVB-I Services over 5G
+<img src="../assets/images/Banner_DVBI.png" /> 
+
+# DVB-I Services over 5G Systems - Relevant Specifications
