@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Time Sensitive Comms
+title: Time Sensitive Communication
 parent: Specifications
 has_children: false
 nav_order: 8
