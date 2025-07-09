@@ -19,7 +19,7 @@ This website serves as an umbrella for documentation related to standards and sp
 5G-MAG maintains a GitHub repository open to provide [**Feedback to Specifications**](pages/feedback.html), in particular, comments, bug-fixing or request for new features.
 
 ## Work Items, Specifications and Technical Reports
-5G-MAG compiles a quick reference guide on [Work Items, Specifications and Technical Reports](pages/standards.html) under the scope of 5G-MAG's work.
+5G-MAG compiles a quick reference guide on [**Work Items, Specifications and Technical Reports**](pages/standards.html) under the scope of 5G-MAG's work.
 
 {: .note }
 Help us improve this documentation. The repository hosting this pages is located here: https://github.com/5g-mag/Standards/
