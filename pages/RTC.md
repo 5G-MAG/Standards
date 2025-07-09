@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RTC
+title: Real-Time Media Communication (RTC)
 parent: Specifications
 has_children: false
 nav_order: 4
