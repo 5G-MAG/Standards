@@ -19,6 +19,12 @@ To report a bug, request a new feature or express a doubt, please create a **[ne
 
 ----
 
+## Feedback to MPEG Specifications
+### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aissue%20state%3Aopen%20project%3A5G-MAG%2F49)
+### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/49) which displays the status of the issues
+
+----
+
 ## Feedback to ETSI TS 103 720 "5G Broadcast System for linear TV and radio services"
 ### Find here the list of [Issues](https://github.com/5G-MAG/Standards/issues?q=is%3Aopen+is%3Aissue+project%3A5g-mag%2F32)
 ### Find here the [Project Board](https://github.com/orgs/5G-MAG/projects/32) which displays the status of the issues
