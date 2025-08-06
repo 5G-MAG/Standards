@@ -40,3 +40,10 @@ MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m70269 - [SD] XR and MPEG-I in 5G-MAG Reference
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m69262 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=94760&id_meeting=199)
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m67862 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=93041&id_meeting=198)
 MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m66555 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=91454&id_meeting=197)
+
+## ETSI MEC (Multi-access Edge Computing)
+
+Meeting | Title
+ -- | --
+MEC043  | [Media industry segment](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000487r3_MEC043_Media_industry_segment.zip)
+MEC043  | [MEC043 UC on Electronic news gathering](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000488r1_MEC043_UC_on_Electronic_news_gathering_.docx)
