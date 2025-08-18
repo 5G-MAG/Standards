@@ -1,5 +1,5 @@
 ---
-name: Repo Documentation
+name: Standards - Documentation
 about: Create a report to raise an issue related to the documentation
 title: ''
 labels: Documentation
