@@ -1,3 +1,4 @@
+---
 layout: default
 title: 5GC Service Consumers
 parent: Specifications
