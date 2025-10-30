@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: References and Quick Guides
+parent: Specifications
 title: 3GPP Work Items per Release
 has_children: false
 nav_order: 0
