@@ -3,7 +3,7 @@ layout: default
 title: Beyond 2D Video
 parent: Specifications
 has_children: false
-nav_order: 11
+nav_order: 12
 ---
 
 <img src="../assets/images/Banner_B2D.png" /> 
