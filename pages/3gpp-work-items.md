@@ -6,6 +6,8 @@ has_children: false
 nav_order: 0
 ---
 
+<img src="./assets/images/Banner_Std.png" /> 
+
 # 3GPP Work Items per Release
 
 This is a list of technical reports summarizing 3GPP Work Items and main achievements.
