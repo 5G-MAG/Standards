@@ -5,7 +5,7 @@ nav_order: 0
 has_children: false
 ---
 
-<img src="../Tech/assets/images/Banner_Std.png" /> 
+<img src="./assets/images/Banner_Std.png" /> 
 
 This is the entry point to relevant information on **Standards and Specifications** and 5G-MAG's relation with SDOs.
 
