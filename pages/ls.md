@@ -5,6 +5,8 @@ has_children: false
 nav_order: 1
 ---
 
+<img src="../assets/images/Banner_Std.png" /> 
+
 # Liaison Statements and Inputs to SDOs
 
 ## 3GPP: Incoming / Outcoming LS and Inputs
