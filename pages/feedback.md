@@ -4,6 +4,9 @@ title: Feedback to Specifications
 nav_order: 2
 has_children: true
 ---
+
+<img src="../assets/images/Banner_Std.png" /> 
+
 # Providing Feedback to Specifications
 
 5G-MAG maintains the [Standards repository](https://github.com/5G-MAG/Standards) open to the community to provide feedback on specifications, in particular, comments, bug-fixing or request for new features. 

@@ -5,6 +5,8 @@ nav_order: 0
 has_children: false
 ---
 
+<img src="../assets/images/Banner_Std.png" /> 
+
 # Requirements towards SDOs
 
 ## Inputs to 3GPP Workshops

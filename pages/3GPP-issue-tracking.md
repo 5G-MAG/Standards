@@ -5,6 +5,9 @@ parent: Feedback to Specifications
 nav_order: 1
 has_children: false
 ---
+
+<img src="../assets/images/Banner_Std.png" /> 
+
 # Tracking of Issues and Feedback to 3GPP
 
 ## XCHANGE 09/01/2025 - Status of standards tickets by end 2024
