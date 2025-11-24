@@ -6,7 +6,7 @@ has_children: false
 nav_order: 0
 ---
 
-<img src="./assets/images/Banner_Std.png" /> 
+<img src="../assets/images/Banner_Std.png" /> 
 
 # 3GPP Work Items per Release
 
