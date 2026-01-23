@@ -13,6 +13,8 @@ nav_order: 1
 
  Meeting | Title  
  -- | --
+3GPP CT3#144 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_144_Dallas/Docs/C3-255041.zip)
+3GPP SA4#134	| [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_134_Dallas/Docs/S4-251689.zip)
 3GPP SA4 Video AHG post 132 | [[FS_Beyond2D] Creation of a 5G-MAG repository](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_VIDEO/Docs/S4aV250048.zip)
 3GPP PCG#54 | [5G-MAG MRP Report: Update on 5G-MAG’s Work](https://www.3gpp.org/ftp/PCG/PCG_54/Docs/PCG54_39.zip)
 3GPP SA4#131 | [[DEMOS] 5G-MAG Reference Tools: Demonstrators at SA4#131 Meeting](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_131_Geneva/Docs/S4-250224.zip)
