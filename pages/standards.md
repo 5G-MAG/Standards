@@ -5,6 +5,8 @@ nav_order: 4
 has_children: yes
 ---
 
+<img src="../assets/images/Banner_Std.png" /> 
+
 # Quick reference to standards and specifications (A-Z)
 
 <table>
