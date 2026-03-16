@@ -6,7 +6,7 @@ has_children: false
 nav_order: 1
 ---
 
-<img src="../assets/images/Banner_5GC.png" /> 
+<img src="../assets/images/Banner_5GC_Service_Consumers.png" /> 
 
 # 5G Core Service Consumers - Relevant Specifications
 
