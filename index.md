@@ -9,7 +9,7 @@ has_children: false
 
 [Go to Reference Tools](https://developer.5g-mag.com){: .btn .btn-blue } [Go to Technical Documentation](https://tech.5g-mag.com){: .btn .btn-blue }
 
-<img src="https://hub.5g-mag.com/Tech/assets/images/5GMAG.png">
+<img src="../Tech/assets/images/5GMAG.png">
 
 This is the entry point to 5G-MAG's work on **Standards and Specifications**.
 
