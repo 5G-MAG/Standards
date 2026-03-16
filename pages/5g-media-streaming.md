@@ -6,7 +6,7 @@ has_children: false
 nav_order: 0
 ---
 
-<img src="../assets/images/Banner_5GMS.png" /> 
+<img src="../assets/images/Banner_5G_Media_Streaming.png" /> 
 
 # 5G Media Streaming Architecture - Relevant Specifications
 
