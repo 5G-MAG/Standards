@@ -3,7 +3,7 @@ layout: default
 title: 5G Media Streaming
 parent: Specifications
 has_children: false
-nav_order: 0
+nav_order: 2
 ---
 
 <img src="../assets/images/Banner_5G_Media_Streaming.png" /> 
