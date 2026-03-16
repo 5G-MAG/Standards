@@ -7,7 +7,11 @@ has_children: false
 
 <img src="./assets/images/Banner_Std.png" /> 
 
-This is the entry point to relevant information on **Standards and Specifications** and 5G-MAG's relation with SDOs.
+[Go to Reference Tools](https://developer.5g-mag.com){: .btn .btn-blue } [Go to Technical Documentation](https://tech.5g-mag.com){: .btn .btn-blue }
+
+<img src="https://hub.5g-mag.com/Tech/assets/images/5GMAG.png">
+
+This is the entry point to 5G-MAG's work on **Standards and Specifications**.
 
 # Feedback to Specifications
 5G-MAG maintains a GitHub repository to provide [**Feedback to Specifications**](pages/feedback.html) based, in particular, on software development, implementation and deployment.
@@ -20,7 +24,7 @@ This is the entry point to relevant information on **Standards and Specification
 
 ---
 
-# Standards and Specifications
+# Quick reference to standards and specifications (A-Z)
 
 <table>
   <tr>
