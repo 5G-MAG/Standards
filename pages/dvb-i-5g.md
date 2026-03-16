@@ -6,6 +6,6 @@ has_children: false
 nav_order: 15
 ---
 
-<img src="../assets/images/Banner_DVBI.png" /> 
+<img src="../assets/images/Banner_DVB_I_over_5G.png" /> 
 
 # DVB-I Services over 5G Systems - Relevant Specifications
