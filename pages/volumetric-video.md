@@ -6,7 +6,7 @@ has_children: false
 nav_order: 11
 ---
 
-<img src="../assets/images/Banner_V3C.png" /> 
+<img src="../assets/images/Banner_Volumetric.png" /> 
 
 # Volumetric Video Experiences with MPEG V3C - Relevant Specifications
 
