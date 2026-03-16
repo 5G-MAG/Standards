@@ -6,7 +6,7 @@ has_children: false
 nav_order: 14
 ---
 
-<img src="../assets/images/Banner_MD.png" /> 
+<img src="../assets/images/Banner_Multimedia_delivery_protocols.png" /> 
 
 # Multimedia Delivery Protocols - Relevant Specifications
 
