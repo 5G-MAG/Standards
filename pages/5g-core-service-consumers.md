@@ -3,10 +3,10 @@ layout: default
 title: 5GC Service Consumers
 parent: Specifications
 has_children: false
-nav_order: 1
+nav_order: 4
 ---
 
-<img src="../assets/images/Banner_5GC.png" /> 
+<img src="../assets/images/Banner_5GC_Service_Consumers.png" /> 
 
 # 5G Core Service Consumers - Relevant Specifications
 

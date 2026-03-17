@@ -3,10 +3,10 @@ layout: default
 title: 5G Broadcast
 parent: Specifications
 has_children: false
-nav_order: 3
+nav_order: 1
 ---
 
-<img src="../assets/images/Banner_5GBC.png" /> 
+<img src="../assets/images/Banner_5G_Broadcast.png" /> 
 
 # 5G Broadcast - Relevant Specifications
 

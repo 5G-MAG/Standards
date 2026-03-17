@@ -3,10 +3,10 @@ layout: default
 title: UE Data Collection
 parent: Specifications
 has_children: false
-nav_order: 2
+nav_order: 16
 ---
 
-<img src="../assets/images/Banner_UEDC.png" /> 
+<img src="../assets/images/Banner_UE_Data_Collection.png" /> 
 
 # UE Data Collection, Reporting and Event Exposure - Relevant Specifications
 

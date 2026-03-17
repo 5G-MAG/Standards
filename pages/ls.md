@@ -9,10 +9,13 @@ nav_order: 1
 
 # Liaison Statements and Inputs to SDOs
 
-## 3GPP: Incoming / Outcoming LS and Inputs
+## 3GPP: Incoming / Outgoing LS and Inputs
 
  Meeting | Title  
  -- | --
+3GPP CT4#133 | [Reply LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_133_Goa-2026-02/Docs/C4-260367.zip)
+3GPP CT3#145 | [LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_145_Goa/Docs/C3-260506.zip)
+3GPP CT4#132 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_132_Dallas-2025-11/Docs/C4-255251.zip)
 3GPP CT3#144 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_144_Dallas/Docs/C3-255041.zip)
 3GPP SA4#134	| [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_134_Dallas/Docs/S4-251689.zip)
 3GPP SA4 Video AHG post 132 | [[FS_Beyond2D] Creation of a 5G-MAG repository](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_VIDEO/Docs/S4aV250048.zip)
