@@ -9,6 +9,14 @@ nav_order: 1
 
 # Liaison Statements and Inputs to SDOs
 
+<style>
+.liaison-table { table-layout: fixed; width: 100%; }
+.liaison-table th:nth-child(1), .liaison-table td:nth-child(1) { width: 60px; }
+.liaison-table th:nth-child(2), .liaison-table td:nth-child(2) { width: 75px; }
+.liaison-table th:nth-child(3), .liaison-table td:nth-child(3) { width: 200px; }
+.liaison-table td { overflow-wrap: anywhere; }
+</style>
+
 ## 3GPP: Incoming / Outgoing LS and Inputs
 
  Year | In/Out | Meeting | Title
@@ -48,6 +56,7 @@ nav_order: 1
 2022 | Out | 3GPP SA4#121 | [Clarification and fixes to 3GPP TS 26.512](https://www.3gpp.org/FTP/tsg_sa/WG4_CODEC/TSGS4_121_Toulouse/Docs/S4-221472.zip)
 2022 | Out | 3GPP SA4#120-e | [5G-MAG Target 2023 - Reference Tools for 5G-based media services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_120-e/LS_IN/S4-221222.zip)
 2021 | Out | 3GPP TSG RAN#91-e | [WID on new bands and bandwidth allocation for LTE-based 5G terrestrial broadcast](https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_91e/LSin/RP-210730.zip)
+{: .liaison-table}
 
 ## MPEG: Incoming / Outcoming LS and Inputs
 
@@ -63,6 +72,7 @@ nav_order: 1
 2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m69262 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=94760&id_meeting=199)
 2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m67862 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=93041&id_meeting=198)
 2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m66555 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=91454&id_meeting=197)
+{: .liaison-table}
 
 ## ETSI MEC (Multi-access Edge Computing)
 
@@ -70,3 +80,4 @@ Year | In/Out | Meeting | Title
  -- | -- | -- | --
 2024 | Out | MEC043 | [Media industry segment](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000487r3_MEC043_Media_industry_segment.zip)
 2024 | Out | MEC043 | [MEC043 UC on Electronic news gathering](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000488r1_MEC043_UC_on_Electronic_news_gathering_.docx)
+{: .liaison-table}
