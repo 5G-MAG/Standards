@@ -5,53 +5,68 @@ has_children: false
 nav_order: 1
 ---
 
-<img src="../assets/images/Banner_Std.png" /> 
+<img src="../assets/images/Banner_Std.png" alt="5G-MAG banner" />
 
 # Liaison Statements and Inputs to SDOs
 
 ## 3GPP: Incoming / Outgoing LS and Inputs
 
- Meeting | Title  
- -- | --
-3GPP CT4#133 | [Reply LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_133_Goa-2026-02/Docs/C4-260367.zip)
-3GPP CT3#145 | [LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_145_Goa/Docs/C3-260506.zip)
-3GPP CT4#132 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_132_Dallas-2025-11/Docs/C4-255251.zip)
-3GPP CT3#144 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_144_Dallas/Docs/C3-255041.zip)
-3GPP SA4#134	| [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_134_Dallas/Docs/S4-251689.zip)
-3GPP SA4 Video AHG post 132 | [[FS_Beyond2D] Creation of a 5G-MAG repository](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_VIDEO/Docs/S4aV250048.zip)
-3GPP PCG#54 | [5G-MAG MRP Report: Update on 5G-MAG’s Work](https://www.3gpp.org/ftp/PCG/PCG_54/Docs/PCG54_39.zip)
-3GPP SA4#131 | [[DEMOS] 5G-MAG Reference Tools: Demonstrators at SA4#131 Meeting](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_131_Geneva/Docs/S4-250224.zip)
-3GPP SA4#130 | [LS on uplink media delivery features for 5GMSu and RTC](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_130_Orlando/Docs/S4-241819.zip)
-3GPP SA4 MBS AHG post 129-e | [LS on 5G-MAG INSIGHTS, Reference Tools and resolution of issues in 3GPP media delivery specifications](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip)
-3GPP SA4 MBS AHG post 127-bis-e | [5G-MAG Views on FS_AMD_Advanced Media Delivery](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip)
-3GPP RAN#105 | [LS on 5G-MAG activities on LTE-based 5G Terrestrial Broadcast and ETSI TS 103 720](https://www.3gpp.org/ftp/TSG_RAN/TSG_RAN/TSGR_105/Docs/RP-241721.zip)
-3GPP SA1#107 | [LS on 5G-MAG Work on NTN for Media Distribution: Devices, services, communication mechanisms and deployment models](https://www.3gpp.org/ftp/Meetings_3GPP_SYNC/SA1/Inbox/S1-242336.zip)
-3GPP SA4#127 | [Progress on 5G-MAG Reference Tools Projects January'24](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_127_Sophia-Antipolis/Docs/S4-240311.zip)
-3GPP RAN#102 | [5G-MAG Report on Time and Frequency Interleaving for 3GPP broadcast services](https://www.3gpp.org/ftp/TSG_RAN/TSG_RAN/TSGR_102/Docs/RP-232736.zip)
-3GPP SA4#122 | [On ETSI TS 103 720 Second Version](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_122_Athens/Docs/S4-230271.zip)
-3GPP SA4#121 | [Reply LS: Clarification and fixes to 3GPP TS 26.512](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_121_Toulouse/Docs/S4-221595.zip)
-3GPP SA4#121 | [Clarification and fixes to 3GPP TS 26.512](https://www.3gpp.org/FTP/tsg_sa/WG4_CODEC/TSGS4_121_Toulouse/Docs/S4-221472.zip)
-3GPP SA4#120-e | [5G-MAG Target 2023 - Reference Tools for 5G-based media services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_120-e/LS_IN/S4-221222.zip)
-3GPP TSG RAN#91-e | [WID on new bands and bandwidth allocation for LTE-based 5G terrestrial broadcast](https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_91e/LSin/RP-210730.zip)
+ Year | In/Out | Meeting | Title
+ -- | -- | -- | --
+2026 | Out | 3GPP SA4#136 | [S4-261155 - 5G-MAG’s Support to 3GPP Study Items and Work Items](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_136_Montreal/Docs/S4-261155.zip)
+2026 | Out | 3GPP SA4#136 | [S4-260903 - LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_136_Montreal/Docs/S4-260903.zip)
+2026 | Out | 3GPP SA4#136 | [S4-260902 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_136_Montreal/Docs/S4-260902.zip) (withdrawn)
+2026 | Out | 3GPP CT3#147 | [C3-262023 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_147_Dalian/Docs/C3-262023.zip)
+2026 | Out | 3GPP CT4#135 | [C4-262234 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_135_Dalian-2026-05/Docs/C4-262234.zip)
+2026 | In | 3GPP CT4#135 | [C4-262311 - Reply LS on High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_135_Dalian-2026-05/Docs/C4-262311.zip) (CT4 reply to 5G-MAG, postponed)
+2026 | In | 3GPP CT4#135 | [C4-262052 - Reply LS on High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_135_Dalian-2026-05/Docs/C4-262052.zip) (Qualcomm, reply to 5G-MAG, revised into C4-262311)
+2026 | Out | 3GPP CT3#146 | [C3-261386 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_146_Malta/Docs/C3-261386.zip)
+2026 | Out | 3GPP CT3#146 | [C3-261385 - LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_146_Malta/Docs/C3-261385.zip)
+2026 | In | 3GPP CT3#146 | [C3-261579 - LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_146_Malta/Docs/C3-261579.zip) (CT3 reply to 5G-MAG, approved)
+2026 | Out | 3GPP CT4#134 | [C4-261261 - LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_134_Malta-2026-04/Docs/C4-261261.zip)
+2026 | Out | 3GPP CT4#134 | [C4-261260 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_134_Malta-2026-04/Docs/C4-261260.zip)
+2026 | Out | 3GPP SA4#135-bis-e | [S4-260708 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_135-bis-e/Docs/S4-260708.zip)
+2026 | Out | 3GPP SA4#135-bis-e | [S4-260707 - LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_135-bis-e/Docs/S4-260707.zip)
+2026 | In | 3GPP SA4#135-bis-e | [S4-260734 - High-level design and service APIs for MBS User Service Announcements](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_135-bis-e/Docs/S4-260734.zip) (SA4 reply to 5G-MAG, approved)
+2026 | Out | 3GPP CT4#133 | [Reply LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_133_Goa-2026-02/Docs/C4-260367.zip)
+2026 | Out | 3GPP CT3#145 | [LS Reply on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_145_Goa/Docs/C3-260506.zip)
+2025 | Out | 3GPP CT4#132 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG4_protocollars_ex-CN4/CT4_132_Dallas-2025-11/Docs/C4-255251.zip)
+2025 | Out | 3GPP CT3#144 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_ct/WG3_interworking_ex-CN3/TSGC3_144_Dallas/Docs/C3-255041.zip)
+2025 | Out | 3GPP SA4#134 | [LS on Service APIs for MBS User Services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_134_Dallas/Docs/S4-251689.zip)
+2025 | Out | 3GPP SA4 Video AHG post 132 | [[FS_Beyond2D] Creation of a 5G-MAG repository](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_VIDEO/Docs/S4aV250048.zip)
+2025 | Out | 3GPP PCG#54 | [5G-MAG MRP Report: Update on 5G-MAG’s Work](https://www.3gpp.org/ftp/PCG/PCG_54/Docs/PCG54_39.zip)
+2025 | Out | 3GPP SA4#131 | [[DEMOS] 5G-MAG Reference Tools: Demonstrators at SA4#131 Meeting](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_131_Geneva/Docs/S4-250224.zip)
+2024 | Out | 3GPP SA4#130 | [LS on uplink media delivery features for 5GMSu and RTC](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_130_Orlando/Docs/S4-241819.zip)
+2024 | Out | 3GPP SA4 MBS AHG post 129-e | [LS on 5G-MAG INSIGHTS, Reference Tools and resolution of issues in 3GPP media delivery specifications](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip)
+2024 | Out | 3GPP SA4 MBS AHG post 127-bis-e | [5G-MAG Views on FS_AMD_Advanced Media Delivery](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/3GPP_SA4_AHOC_MTGs/SA4_MBS/Docs/S4aI240158.zip)
+2024 | Out | 3GPP RAN#105 | [LS on 5G-MAG activities on LTE-based 5G Terrestrial Broadcast and ETSI TS 103 720](https://www.3gpp.org/ftp/TSG_RAN/TSG_RAN/TSGR_105/Docs/RP-241721.zip)
+2024 | Out | 3GPP SA1#107 | [LS on 5G-MAG Work on NTN for Media Distribution: Devices, services, communication mechanisms and deployment models](https://www.3gpp.org/ftp/Meetings_3GPP_SYNC/SA1/Inbox/S1-242336.zip)
+2024 | Out | 3GPP SA4#127 | [Progress on 5G-MAG Reference Tools Projects January'24](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_127_Sophia-Antipolis/Docs/S4-240311.zip)
+2023 | Out | 3GPP RAN#102 | [5G-MAG Report on Time and Frequency Interleaving for 3GPP broadcast services](https://www.3gpp.org/ftp/TSG_RAN/TSG_RAN/TSGR_102/Docs/RP-232736.zip)
+2023 | Out | 3GPP SA4#122 | [On ETSI TS 103 720 Second Version](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_122_Athens/Docs/S4-230271.zip)
+2022 | Out | 3GPP SA4#121 | [Reply LS: Clarification and fixes to 3GPP TS 26.512](https://www.3gpp.org/ftp/TSG_SA/WG4_CODEC/TSGS4_121_Toulouse/Docs/S4-221595.zip)
+2022 | Out | 3GPP SA4#121 | [Clarification and fixes to 3GPP TS 26.512](https://www.3gpp.org/FTP/tsg_sa/WG4_CODEC/TSGS4_121_Toulouse/Docs/S4-221472.zip)
+2022 | Out | 3GPP SA4#120-e | [5G-MAG Target 2023 - Reference Tools for 5G-based media services](https://www.3gpp.org/ftp/tsg_sa/WG4_CODEC/TSGS4_120-e/LS_IN/S4-221222.zip)
+2021 | Out | 3GPP TSG RAN#91-e | [WID on new bands and bandwidth allocation for LTE-based 5G terrestrial broadcast](https://www.3gpp.org/ftp/tsg_ran/TSG_RAN/TSGR_91e/LSin/RP-210730.zip)
 
 ## MPEG: Incoming / Outcoming LS and Inputs
 
- Meeting | Title
- -- | --
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m74566 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=101445)
-MPEG ISO/IEC JTC 1/SC 29/WG 4 | [m73733 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (MIV)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73733-v1-m73733V3CandHapticImmersiveplatformreleaseon5G-MAGreferencetools.zip)
-MPEG ISO/IEC JTC 1/SC 29/WG 7 | [m73724 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (V-PCC and Haptics)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73724-v1-m73724.zip)
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m73539 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m72702 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m71455 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=97524&id_meeting=201)
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m70269 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=96052&id_meeting=200)
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m69262 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=94760&id_meeting=199)
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m67862 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=93041&id_meeting=198)
-MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m66555 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=91454&id_meeting=197)
+ Year | In/Out | Meeting | Title
+ -- | -- | -- | --
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m74566 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=101445)
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 4 | [m73733 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (MIV)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73733-v1-m73733V3CandHapticImmersiveplatformreleaseon5G-MAGreferencetools.zip)
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 7 | [m73724 - V3C and Haptic Immersive platform release on 5G-MAG reference tools (V-PCC and Haptics)](https://dms.mpeg.expert/doc_end_user/documents/151_Daejeon/wg11/m73724-v1-m73724.zip)
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m73539 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m72702 - [SD] XR and MPEG-I in 5G-MAG Reference Tools]()
+2025 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m71455 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=97524&id_meeting=201)
+2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m70269 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=96052&id_meeting=200)
+2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m69262 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=94760&id_meeting=199)
+2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m67862 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=93041&id_meeting=198)
+2024 | Out | MPEG ISO/IEC JTC 1/SC 29/WG 3 | [m66555 - [SD] XR and MPEG-I in 5G-MAG Reference Tools](https://dms.mpeg.expert/doc_end_user/current_document.php?id=91454&id_meeting=197)
 
 ## ETSI MEC (Multi-access Edge Computing)
 
-Meeting | Title
- -- | --
-MEC043  | [Media industry segment](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000487r3_MEC043_Media_industry_segment.zip)
-MEC043  | [MEC043 UC on Electronic news gathering](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000488r1_MEC043_UC_on_Electronic_news_gathering_.docx)
+Year | In/Out | Meeting | Title
+ -- | -- | -- | --
+2024 | Out | MEC043 | [Media industry segment](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000487r3_MEC043_Media_industry_segment.zip)
+2024 | Out | MEC043 | [MEC043 UC on Electronic news gathering](https://docbox.etsi.org/ISG/MEC/05-CONTRIBUTIONS/2024/MEC(24)000488r1_MEC043_UC_on_Electronic_news_gathering_.docx)
